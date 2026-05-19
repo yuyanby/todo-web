@@ -102,7 +102,6 @@ function renderTaskItem(task) {
     const isCompleted = task.status === 'completed';
     const ownerEmoji = task.owner === 'hermes' ? '🤖' : '👤';
     const ownerText = task.owner === 'hermes' ? 'Hermes' : '我';
-    const hasGuide = task.output_file ? true : false;
     
     // 计算剩余天数
     let dueText = '';
@@ -144,10 +143,10 @@ function renderTaskItem(task) {
             <div class="task-badges">
                 <span class="badge badge-category">${task.category}</span>
                 <span class="badge badge-owner-${task.owner}">${ownerText}</span>
-                ${hasGuide ? '<span class="badge badge-guide">📄 攻略</span>' : ''}
+                ${task.output_file ? '<span class="badge badge-guide">📄 攻略</span>' : ''}
             </div>
             <div class="task-actions">
-                ${hasGuide ? `<a href="${task.output_file}" class="btn btn-primary"><i class="fas fa-book-open"></i> 查看攻略</a>` : ''}
+                <a href="task.html?id=${task.id}" class="btn btn-primary"><i class="fas fa-book-open"></i> 查看攻略</a>
                 <button class="btn btn-success" onclick="toggleTask(${task.id})"><i class="fas ${isCompleted ? 'fa-undo' : 'fa-check'}"></i> ${isCompleted ? '取消' : '完成'}</button>
             </div>
         </div>

@@ -11,7 +11,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "user",
       "due_date": "2025-05-25",
-      "output_file": "tasks/task_3.html",
+      "output_file": "task.html?id=3",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -22,7 +22,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "user",
       "due_date": "2025-05-30",
-      "output_file": "tasks/task_4.html",
+      "output_file": "task.html?id=4",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -33,7 +33,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "user",
       "due_date": "2025-06-01",
-      "output_file": "tasks/task_5.html",
+      "output_file": "task.html?id=5",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -44,7 +44,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "user",
       "due_date": "2025-06-10",
-      "output_file": "tasks/task_6.html",
+      "output_file": "task.html?id=6",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -55,7 +55,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "user",
       "due_date": "2025-06-15",
-      "output_file": "tasks/task_7.html",
+      "output_file": "task.html?id=7",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -66,7 +66,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "user",
       "due_date": "2025-06-30",
-      "output_file": "tasks/task_8.html",
+      "output_file": "task.html?id=8",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -77,7 +77,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-05-25",
-      "output_file": "tasks/task_9.html",
+      "output_file": "task.html?id=9",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -88,7 +88,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-05-25",
-      "output_file": "tasks/task_10.html",
+      "output_file": "task.html?id=10",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -99,7 +99,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-05-25",
-      "output_file": "tasks/task_11.html",
+      "output_file": "task.html?id=11",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -110,7 +110,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-05-28",
-      "output_file": "tasks/task_12.html",
+      "output_file": "task.html?id=12",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -121,7 +121,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-05-28",
-      "output_file": "tasks/task_13.html",
+      "output_file": "task.html?id=13",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -132,7 +132,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-06-05",
-      "output_file": "tasks/task_14.html",
+      "output_file": "task.html?id=14",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -143,7 +143,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-06-05",
-      "output_file": "tasks/task_15.html",
+      "output_file": "task.html?id=15",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -154,7 +154,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-06-05",
-      "output_file": "tasks/task_16.html",
+      "output_file": "task.html?id=16",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -165,7 +165,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-06-05",
-      "output_file": "tasks/task_17.html",
+      "output_file": "task.html?id=17",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -176,7 +176,7 @@ const tasksData = {
       "category": "婚礼",
       "owner": "hermes",
       "due_date": "2025-06-10",
-      "output_file": "tasks/task_18.html",
+      "output_file": "task.html?id=18",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -187,7 +187,7 @@ const tasksData = {
       "category": "新房",
       "owner": "hermes",
       "due_date": "2025-07-15",
-      "output_file": "tasks/task_19.html",
+      "output_file": "task.html?id=19",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -198,7 +198,7 @@ const tasksData = {
       "category": "新房",
       "owner": "user",
       "due_date": "2025-07-31",
-      "output_file": "tasks/task_20.html",
+      "output_file": "task.html?id=20",
       "created_at": "2025-05-19T21:54:00"
     },
     {
@@ -208,7 +208,7 @@ const tasksData = {
       "priority": "high",
       "category": "婚礼",
       "owner": "hermes",
-      "output_file": "tasks/task_21.html",
+      "output_file": "task.html?id=21",
       "created_at": "2026-05-19T23:28:51.486486",
       "completed_at": null,
       "due_date": "2025-05-20"
@@ -220,7 +220,7 @@ const tasksData = {
       "priority": "low",
       "category": "婚礼",
       "owner": "hermes",
-      "output_file": "tasks/task_22.html",
+      "output_file": "task.html?id=22",
       "created_at": "2026-05-19T23:32:24.195657",
       "completed_at": null,
       "due_date": "2025-05-20"

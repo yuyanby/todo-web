@@ -665,7 +665,29 @@ form {
     }
     
     .stats-row {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        margin-bottom: 14px;
+    }
+    
+    .stat-card {
+        padding: 12px;
+        gap: 10px;
+    }
+    
+    .stat-icon {
+        width: 36px;
+        height: 36px;
+        font-size: 14px;
+        border-radius: 8px;
+    }
+    
+    .stat-value {
+        font-size: 18px;
+    }
+    
+    .stat-label {
+        font-size: 12px;
     }
     
     .task-list-header {
