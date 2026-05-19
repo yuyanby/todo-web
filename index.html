@@ -4,8 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>我的任务清单 - Todo Web</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=2.3">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        // 硬刷新 - 清除旧缓存
+        (function() {
+            var key = 'todo_web_v2_3';
+            var lastVer = localStorage.getItem('todo_web_ver');
+            if (lastVer !== key) {
+                localStorage.setItem('todo_web_ver', key);
+                // 强制从服务器加载最新资源
+                var links = document.querySelectorAll('link[rel="stylesheet"]');
+                for (var i = 0; i < links.length; i++) {
+                    links[i].href = links[i].href.split('?')[0] + '?v=' + Date.now();
+                }
+            }
+        })();
+    </script>
 </head>
 <body>
     <!-- 移动端顶部导航栏 -->
@@ -195,8 +210,8 @@
         </div>
     </div>
 
-    <script src="js/data.js"></script>
-    <script src="js/app.js"></script>
+    <script src="js/data.js?v=2.3"></script>
+    <script src="js/app.js?v=2.3"></script>
     <script>
         // 移动端侧边栏切换（内联函数，确保微信浏览器也能触发）
         function toggleMobileSidebar() {
