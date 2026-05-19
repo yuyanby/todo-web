@@ -168,7 +168,8 @@
         </main>
     </div>
     <div class="image-modal" id="image-modal" onclick="closeImageModal()"><span class="close">&times;</span><img id="modal-img" src="" alt="放大图片"></div>
-    <script src="js/data.js"></script>
+    <script src="js/data.js?v=2.3"></script>
+    <script src="js/guide.js?v=2.3"></script>
     <script>
         var urlParams = new URLSearchParams(window.location.search);
         var taskId = parseInt(urlParams.get('id'));
@@ -188,9 +189,21 @@
             document.getElementById('task-owner').innerHTML = task.owner === 'hermes' ? '<i class=\"fas fa-robot\"></i> Hermes (AI)' : '<i class=\"fas fa-user\"></i> 我自己';
             document.getElementById('task-description').textContent = task.content;
             var keywords = task.content.split('【')[0];
-            document.getElementById('xhs-keywords').textContent = keywords;
-            document.getElementById('zhihu-keywords').textContent = keywords;
-            document.getElementById('bilibili-keywords').textContent = keywords;
+            document.getElementById('xhs-keywords').textContent = keywords + ' - 搜索中...';
+            document.getElementById('zhihu-keywords').textContent = keywords + ' - 搜索中...';
+            document.getElementById('bilibili-keywords').textContent = keywords + ' - 搜索中...';
+            
+            // 加载攻略数据
+            loadGuide(taskId).then(function(data) {
+                if (data) {
+                    fillGuideContent(taskId, data);
+                } else {
+                    // 无攻略数据，显示提示
+                    document.getElementById('xhs-keywords').textContent = keywords + ' - 暂无攻略数据';
+                    document.getElementById('zhihu-keywords').textContent = keywords + ' - 暂无攻略数据';
+                    document.getElementById('bilibili-keywords').textContent = keywords + ' - 暂无攻略数据';
+                }
+            });
         }
         function showTab(tabName) {
             var contents = document.querySelectorAll('.tab-content');
