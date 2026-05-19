@@ -1,0 +1,43 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: |
+        npm install -g http-server
+    
+    - name: Build
+      run: |
+        # 创建任务页面
+        mkdir -p tasks
+        # 复制模板到各个任务
+        for task_id in 9 14 15; do
+          if [ -f "task-template.html" ]; then
+            cp task-template.html "tasks/task_${task_id}.html"
+            # 替换任务ID
+            sed -i "s/taskId = parseInt/taskId = ${task_id}/g" "tasks/task_${task_id}.html"
+          fi
+        done
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
