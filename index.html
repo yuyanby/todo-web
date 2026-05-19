@@ -8,13 +8,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- 移动端菜单按钮 -->
-    <button class="mobile-menu-btn" id="mobile-menu-btn" type="button" aria-label="打开菜单">
-        <i class="fas fa-bars"></i>
-    </button>
+    <!-- 移动端顶部导航栏 -->
+    <div class="mobile-topbar" id="mobile-topbar">
+        <button class="mobile-menu-btn" id="mobile-menu-btn" type="button" aria-label="打开菜单">
+            <span class="hamburger-icon">☰</span>
+        </button>
+        <span class="mobile-title">📋 任务清单</span>
+    </div>
     
     <!-- 遮罩层 -->
-    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleMobileSidebar()"></div>
     
     <div class="app-container">
         <!-- 侧边栏 -->
@@ -195,47 +198,58 @@
     <script src="js/data.js"></script>
     <script src="js/app.js"></script>
     <script>
-        // 移动端侧边栏切换
-        function toggleSidebar(e) {
-            if (e) {
-                e.preventDefault();
-                e.stopPropagation();
+        // 移动端侧边栏切换（内联函数，确保微信浏览器也能触发）
+        function toggleMobileSidebar() {
+            var sidebar = document.getElementById('sidebar');
+            var overlay = document.getElementById('sidebar-overlay');
+            var topbar = document.getElementById('mobile-topbar');
+            if (sidebar) {
+                sidebar.classList.toggle('active');
             }
-            const sidebar = document.getElementById('sidebar');
-            const overlay = document.getElementById('sidebar-overlay');
-            sidebar.classList.toggle('active');
-            overlay.classList.toggle('active');
-        }
-        
-        // 等待 DOM 加载完成
-        document.addEventListener('DOMContentLoaded', function() {
-            // 绑定菜单按钮点击事件
-            const menuBtn = document.getElementById('mobile-menu-btn');
-            const overlay = document.getElementById('sidebar-overlay');
-            
-            if (menuBtn) {
-                menuBtn.addEventListener('click', function(e) {
-                    e.stopPropagation();
-                    toggleSidebar(e);
-                });
-            }
-            
             if (overlay) {
-                overlay.addEventListener('click', function(e) {
-                    toggleSidebar(e);
-                });
+                overlay.classList.toggle('active');
+            }
+            if (topbar) {
+                topbar.classList.toggle('sidebar-open');
+            }
+        }
+
+        // 页面加载完成后绑定事件
+        (function() {
+            // 菜单按钮
+            var menuBtn = document.getElementById('mobile-menu-btn');
+            if (menuBtn) {
+                // 同时绑定 click 和 touchend，兼容微信浏览器
+                function handleMenuClick(e) {
+                    if (e) e.preventDefault();
+                    if (e) e.stopPropagation ? e.stopPropagation() : (e.cancelBubble = true);
+                    toggleMobileSidebar();
+                    return false;
+                }
+                menuBtn.onclick = handleMenuClick;
+                menuBtn.ontouchend = function(e) {
+                    e.preventDefault();
+                    toggleMobileSidebar();
+                };
             }
             
             // 点击导航项后关闭侧边栏（移动端）
-            document.querySelectorAll('.nav-item').forEach(item => {
-                item.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    if (window.innerWidth <= 768) {
-                        toggleSidebar();
-                    }
-                });
-            });
-        });
+            var navItems = document.querySelectorAll('.nav-item');
+            for (var i = 0; i < navItems.length; i++) {
+                (function(item) {
+                    item.addEventListener('click', function(e) {
+                        if (window.innerWidth <= 768) {
+                            var sidebar = document.getElementById('sidebar');
+                            var overlay = document.getElementById('sidebar-overlay');
+                            if (sidebar) sidebar.classList.remove('active');
+                            if (overlay) overlay.classList.remove('active');
+                            var topbar = document.getElementById('mobile-topbar');
+                            if (topbar) topbar.classList.remove('sidebar-open');
+                        }
+                    });
+                })(navItems[i]);
+            }
+        })();
     </script>
 </body>
 </html>
