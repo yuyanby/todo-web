@@ -212,6 +212,18 @@ const tasksData = {
       "created_at": "2026-05-19T23:28:51.486486",
       "completed_at": null,
       "due_date": "2025-05-20"
+    },
+    {
+      "id": 22,
+      "content": "SSH自动配置测试",
+      "status": "pending",
+      "priority": "low",
+      "category": "婚礼",
+      "owner": "hermes",
+      "output_file": null,
+      "created_at": "2026-05-19T23:32:24.195657",
+      "completed_at": null,
+      "due_date": "2025-05-20"
     }
   ]
 };
