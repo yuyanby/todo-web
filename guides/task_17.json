@@ -25,7 +25,12 @@
         {
           "style": "北欧ins风",
           "description": "简约线条、莫兰迪色系、哑光质感，适合年轻家庭",
-          "recommended_brands": ["Ferm Living", "KINTO", "IKEA GRADVIS", "Meric Garden"],
+          "recommended_brands": [
+            "Ferm Living",
+            "KINTO",
+            "IKEA GRADVIS",
+            "Meric Garden"
+          ],
           "price_range": "¥50~¥500",
           "sources": [
             "https://www.thetigerhood.com/10-summer-vase-vibe/",
@@ -36,7 +41,12 @@
         {
           "style": "轻奢现代风",
           "description": "金属搭配玻璃、大理石纹路、不规则几何造型",
-          "recommended_brands": ["Magis", "Cappellini", "101 Copenhagen", "Stelton"],
+          "recommended_brands": [
+            "Magis",
+            "Cappellini",
+            "101 Copenhagen",
+            "Stelton"
+          ],
           "price_range": "¥200~¥2000",
           "sources": [
             "https://www.thetigerhood.com/10-flower-vase/",
@@ -46,7 +56,11 @@
         {
           "style": "新中式风格",
           "description": "景德镇陶瓷、青花瓷、釉变工艺，适合中式/新中式装修",
-          "recommended_brands": ["景德镇手工陶瓷", "皓杨", "初泥"],
+          "recommended_brands": [
+            "景德镇手工陶瓷",
+            "皓杨",
+            "初泥"
+          ],
           "price_range": "¥50~¥1000",
           "sources": [
             "https://guangtao.taobao.com/topic-139400145.html",
@@ -60,25 +74,62 @@
       "items": [
         {
           "material": "玻璃花瓶",
-          "pros": ["透明度高，便于观察水位", "易清洁", "价格亲民", "适合鲜花水养"],
-          "cons": ["易碎", "质感相对单一"],
-          "popular_types": ["透明水晶玻璃", "锤纹玻璃", "波纹玻璃", "渐变彩色玻璃"],
+          "pros": [
+            "透明度高，便于观察水位",
+            "易清洁",
+            "价格亲民",
+            "适合鲜花水养"
+          ],
+          "cons": [
+            "易碎",
+            "质感相对单一"
+          ],
+          "popular_types": [
+            "透明水晶玻璃",
+            "锤纹玻璃",
+            "波纹玻璃",
+            "渐变彩色玻璃"
+          ],
           "price_range": "¥20~¥300",
           "care_tips": "避免骤冷骤热，清洗时使用软布"
         },
         {
           "material": "陶瓷花瓶",
-          "pros": ["质感温润", "造型丰富", "艺术性强", "适合干花/仿真花"],
-          "cons": ["较重", "价格差异大"],
-          "popular_types": ["哑光釉面", "手工拉胚", "釉变窑变", "手绘青花"],
+          "pros": [
+            "质感温润",
+            "造型丰富",
+            "艺术性强",
+            "适合干花/仿真花"
+          ],
+          "cons": [
+            "较重",
+            "价格差异大"
+          ],
+          "popular_types": [
+            "哑光釉面",
+            "手工拉胚",
+            "釉变窑变",
+            "手绘青花"
+          ],
           "price_range": "¥30~¥2000",
           "care_tips": "选釉面完全封闭的款式，避免多孔材质发霉"
         },
         {
           "material": "金属花瓶",
-          "pros": ["现代感强", "耐用", "轻奢质感"],
-          "cons": ["导热快", "可能有锈蚀风险"],
-          "popular_types": ["金色/玫瑰金电镀", "银色镜面", "铁艺镂空"],
+          "pros": [
+            "现代感强",
+            "耐用",
+            "轻奢质感"
+          ],
+          "cons": [
+            "导热快",
+            "可能有锈蚀风险"
+          ],
+          "popular_types": [
+            "金色/玫瑰金电镀",
+            "银色镜面",
+            "铁艺镂空"
+          ],
           "price_range": "¥50~¥800"
         }
       ]
@@ -273,5 +324,33 @@
       "url": "https://www.jd.com/phb/zhishi/tag_3803dbd4fd5f25ae54f1.html",
       "title": "京东618花瓶花艺排行榜"
     }
+  ],
+  "taobao": {
+    "table": "<tr><td>ins风北欧花瓶客厅插花轻奢水晶玻璃玫瑰卧室网红水养装饰品摆件</td><td>淘宝家居店</td><td class='best'>¥51.8</td><td>水晶玻璃材质，ins北欧风，已售1000+件，好评92</td><td><a href='https://au.world.taobao.com/product/ins%E8%8A%B1%E7%93%B6%E5%8C%97%E6%AC%A7.htm'>查看</a></td></tr><tr><td>北欧风格创意小花瓶装饰摆件一对依偎花瓶摆设ins风</td><td>淘宝家居店</td><td>¥18</td><td>北欧创意设计，一对装依偎花瓶，适合桌面摆件</td><td><a href='https://my.world.taobao.com/product/%E5%8C%97%E6%AC%A7ins%E9%A3%8E%E8%8A%B1%E7%93%B6%E6%91%86%E8%AE%BE.htm'>查看</a></td></tr><tr><td>落地花瓶ins北欧风客厅陶瓷大花瓶</td><td>淘宝家居店</td><td>¥89-199</td><td>陶瓷材质，落地大花瓶，北欧简约，适合客厅/玄关</td><td><a href='https://sg.world.taobao.com/product/%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6ins%E9%A3%8E.htm'>查看</a></td></tr><tr><td>轻奢水晶玻璃花瓶摆件客厅插花装饰</td><td>淘宝家居店</td><td>¥68-128</td><td>轻奢风水晶玻璃，客厅插花装饰，质感高级</td><td><a href='https://www.taobao.com/list/product/%E8%8A%B1%E7%93%B6ins%E9%A3%8E%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6.htm'>查看</a></td></tr>",
+    "images": []
+  },
+  "jd": {
+    "table": "<tr><td>北欧ins风创意陶瓷花瓶客厅插花装饰摆件</td><td>京东家居店</td><td class='best'>¥49-99</td><td>陶瓷材质，北欧风格，适合客厅桌面装饰</td><td><a href='https://www.jd.com/hprm/7378d7ec2591dbbec6a.html'>查看</a></td></tr><tr><td>水晶玻璃花瓶家用客厅插花摆件轻奢</td><td>京东家居店</td><td>¥69-129</td><td>水晶玻璃，轻奢设计，通透质感，送鲜花套装</td><td><a href='https://www.jd.com/phb/key_15248fa68812cf01c48d7.html'>查看</a></td></tr>",
+    "images": []
+  },
+  "recommendation": "<h3>最终推荐 — 新房装饰花瓶选购方案</h3><ul><li><b>🥇 水晶玻璃花瓶（淘宝¥51.8）</b> — ins北欧风，水晶玻璃通透有质感，已售1000+件，性价比极高，适合客厅/餐桌</li><li><b>🥇 落地大花瓶套装（淘宝¥89-199）</b> — 陶瓷落地，适合客厅、玄关、阳台角落，搭配仿真花/干花效果佳</li><li><b>🥈 北欧创意一对装（淘宝¥18）</b> — 价格超低，一对小瓶设计感强，适合卧室/书房桌面</li><li><b>🥉 京东水晶玻璃（京东¥69-129）</b> — 京东自营配送快，适合急用</li></ul><p><b>建议搭配：</b>1个落地大花瓶（客厅）+ 1-2个桌面花瓶（卧室/书房）+ 干花/仿真花（省心不用换水）。淘宝上一起买总价约¥150-300搞定。</p>",
+  "buyLinks": [
+    {
+      "url": "https://au.world.taobao.com/product/ins%E8%8A%B1%E7%93%B6%E5%8C%97%E6%AC%A7.htm",
+      "text": "ins北欧水晶花瓶 - 淘宝¥51.8",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://sg.world.taobao.com/product/%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6ins%E9%A3%8E.htm",
+      "text": "落地陶瓷花瓶 - 淘宝¥89起",
+      "platform": "taobao"
+    }
+  ],
+  "notices": [
+    "花瓶购买不赶618，价格波动不大，随时可买",
+    "新房入住后根据实际风格选购更稳妥，建议先定硬装风格再买软装",
+    "建议买1个落地大花瓶（客厅/玄关）+2个桌面小瓶（卧室+书房）",
+    "配合干花或仿真花省心养护，淘宝永生花/仿真花¥20-50一大束",
+    "入住前买好散味即可，陶瓷/玻璃材质无甲醛问题"
   ]
 }

@@ -150,20 +150,60 @@
     {
       "price_range": "高端旗舰 (4500元以上)",
       "models": [
-        {"brand": "石头", "model": "G30 Space探索版", "price_after_subsidy": "~4500-5500元", "highlight": "5轴机械手（独有），22000Pa"},
-        {"brand": "科沃斯", "model": "X11 PRO / X12 Pro", "price_after_subsidy": "~4500-6000元", "highlight": "滚筒活水洗地，智能控水"},
-        {"brand": "追觅", "model": "X50 Pro增强版", "price_after_subsidy": "~4400-5000元", "highlight": "6cm越障（独有），双机械足"},
-        {"brand": "云鲸", "model": "J5", "price_after_subsidy": "~2600-3200元", "highlight": "100℃高温煮洗"}
+        {
+          "brand": "石头",
+          "model": "G30 Space探索版",
+          "price_after_subsidy": "~4500-5500元",
+          "highlight": "5轴机械手（独有），22000Pa"
+        },
+        {
+          "brand": "科沃斯",
+          "model": "X11 PRO / X12 Pro",
+          "price_after_subsidy": "~4500-6000元",
+          "highlight": "滚筒活水洗地，智能控水"
+        },
+        {
+          "brand": "追觅",
+          "model": "X50 Pro增强版",
+          "price_after_subsidy": "~4400-5000元",
+          "highlight": "6cm越障（独有），双机械足"
+        },
+        {
+          "brand": "云鲸",
+          "model": "J5",
+          "price_after_subsidy": "~2600-3200元",
+          "highlight": "100℃高温煮洗"
+        }
       ],
       "verdict": "追觅X50 Pro越障最强；石头G30算法和导航最佳；科沃斯X11拖地最干净"
     },
     {
       "price_range": "中端主力 (3000-4500元)",
       "models": [
-        {"brand": "石头", "model": "P20 Ultra", "price_after_subsidy": "~2800-3500元", "highlight": "超薄机身，性价比高"},
-        {"brand": "科沃斯", "model": "T80 / T50 PRO", "price_after_subsidy": "~2800-3800元", "highlight": "滚筒活水入门，清洁力强"},
-        {"brand": "追觅", "model": "S50 Pro增强版", "price_after_subsidy": "~3000-3600元", "highlight": "全能基站，综合性价比最高"},
-        {"brand": "云鲸", "model": "J5", "price_after_subsidy": "~2600-3200元", "highlight": "高温煮洗+全链路烘干"}
+        {
+          "brand": "石头",
+          "model": "P20 Ultra",
+          "price_after_subsidy": "~2800-3500元",
+          "highlight": "超薄机身，性价比高"
+        },
+        {
+          "brand": "科沃斯",
+          "model": "T80 / T50 PRO",
+          "price_after_subsidy": "~2800-3800元",
+          "highlight": "滚筒活水入门，清洁力强"
+        },
+        {
+          "brand": "追觅",
+          "model": "S50 Pro增强版",
+          "price_after_subsidy": "~3000-3600元",
+          "highlight": "全能基站，综合性价比最高"
+        },
+        {
+          "brand": "云鲸",
+          "model": "J5",
+          "price_after_subsidy": "~2600-3200元",
+          "highlight": "高温煮洗+全链路烘干"
+        }
       ],
       "verdict": "追觅S50 Pro性价比突出；科沃斯T80滚筒清洁力强；石头P20算法优秀"
     }
@@ -225,5 +265,38 @@
     "https://zhuanlan.zhihu.com/p/139666607 (2026年扫地机器人推荐618必看)"
   ],
   "created_at": "2025-05-20",
-  "source": "Firecrawl web search + multi-source synthesis"
+  "source": "Firecrawl web search + multi-source synthesis",
+  "taobao": {
+    "table": "<tr><td>科沃斯T80扫地机器人扫拖一体自动清洗</td><td>科沃斯天猫旗舰店</td><td class='best'>¥2999-3499</td><td>恒温活水洗地，15800Pa吸力，双梳齿防缠绕，保价618</td><td><a href='https://www.taobao.com/list/product/top-rated/%E7%A7%91%E6%B2%83%E6%96%AFT80.htm'>查看</a></td></tr><tr><td>追觅S50 Plus扫地机器人扫拖一体自动清洗</td><td>追觅天猫旗舰店</td><td>¥2499-3299</td><td>仿生机械足越障，自动集尘+洗拖布，全屋智能</td><td><a href='https://www.taobao.com/list/product/top-rated/%E8%BF%BD%E8%A7%85S50.htm'>查看</a></td></tr><tr><td>石头P20 Pro扫地机器人扫拖一体</td><td>石头科技天猫旗舰店</td><td>¥2799-3599</td><td>RR Mason算法，双线激光避障，3cm越障，拖布自动抬升</td><td><a href='https://www.taobao.com/list/product/top-rated/%E7%9F%B3%E5%A4%B4P20.htm'>查看</a></td></tr>",
+    "images": []
+  },
+  "jd": {
+    "table": "<tr><td>科沃斯T80扫地机器人【保价618】</td><td>科沃斯京东自营旗舰店</td><td class='best'>¥2999-3499</td><td>恒温活水洗地，15800Pa吸力，双梳齿防缠绕，京东保价618</td><td><a href='https://www.jd.com/hprm/7378d7ec2591dbbec6a.html'>查看</a></td></tr><tr><td>追觅S50增强版扫地机器人扫拖一体【保价618】</td><td>追觅京东自营旗舰店</td><td>¥2499-3199</td><td>仿生机械足，扫拖洗烘除菌集尘一体，自动上下水</td><td><a href='https://www.jd.com/jiage/737c5112fb13c6c8f7f.html'>查看</a></td></tr><tr><td>石头P20 Ultra扫地机器人扫拖一体</td><td>石头京东自营旗舰店</td><td>¥3299-3999</td><td>22000Pa吸力，3cm越障，零缠绕滚刷，防水基站，AI避障</td><td><a href='https://post.smzdm.com/p/apwdo6k7'>查看</a></td></tr><tr><td>科沃斯T50 PRO扫地机器人【保价618】</td><td>科沃斯京东自营旗舰店</td><td>¥3999-4599</td><td>超薄机身，活水洗地，自动上下水，旗舰级</td><td><a href='https://www.jd.com/jiage/737aa1585cf05cd3423.html'>查看</a></td></tr><tr><td>追觅X50Pro增强版扫地机器人</td><td>追觅京东自营旗舰店</td><td>¥4299-4999</td><td>旗舰款，全能基站，自动上下水，拖布自清洁</td><td><a href='https://www.jd.com/jiage/737aa1585cf05cd3423.html'>查看</a></td></tr>",
+    "images": []
+  },
+  "recommendation": "<h3>最终推荐 — 扫地机器人对比（石头 vs 科沃斯 vs 追觅）</h3><h4>💰 2500-3500元档（主流性价比）</h4><ul><li><b>🥇 科沃斯T80（京东¥2999-3499）</b> — 恒温活水洗地+双梳齿防缠绕，清洁能力和防缠绕技术双优，价格适中，性价比最高</li><li><b>🥈 追觅S50增强版（京东¥2499-3199）</b> — 价格最低的入门全能款，适合预算有限，仿生机械足越障能力强</li></ul><h4>💰 3500-4500元档（中高端）</h4><ul><li><b>🥇 石头P20 Ultra（京东¥3299-3999）</b> — RR Mason算法行业最佳导航避障，22000Pa超强吸力，3cm越障，零缠绕滚刷。如果预算够，强烈推荐！</li><li><b>🥈 科沃斯T50 PRO（京东¥3999-4599）</b> — 超薄机身可进低矮空间，活水洗地旗舰体验</li></ul><p><b>🏆 综合推荐 Top 3</b></p><ol><li><b>🥇 科沃斯T80（¥2999-3499）</b> — 性价比之王，保价618</li><li><b>🥇 石头P20 Ultra（¥3299-3999）</b> — 预算够的直接上，算法最强</li><li><b>🥈 追觅S50增强版（¥2499-3199）</b> — 入门首选</li></ol><p>新房6月底入住，建议618期间（6.10-6.15）下单购买。</p>",
+  "buyLinks": [
+    {
+      "url": "https://www.jd.com/hprm/7378d7ec2591dbbec6a.html",
+      "text": "科沃斯T80 - 京东自营（保价618）",
+      "platform": "jd"
+    },
+    {
+      "url": "https://www.jd.com/jiage/737c5112fb13c6c8f7f.html",
+      "text": "追觅S50增强版 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://post.smzdm.com/p/apwdo6k7",
+      "text": "石头P20 Ultra评测 - 值得买",
+      "platform": "jd"
+    }
+  ],
+  "notices": [
+    "618大促期间京东自营保价，买贵退差价，放心入手",
+    "新房6月底入住，6.10-6.15下单正好收房后使用",
+    "注意测量家中门槛高度，石头P20 Ultra可翻越3cm门槛，追觅S50有仿生机械足",
+    "确认是否需要上下水版本，装修时预留好位置",
+    "首次使用建议先建图再规划清扫路线"
+  ]
 }
