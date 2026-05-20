@@ -326,7 +326,7 @@
     }
   ],
   "taobao": {
-    "table": "<tr><td>ins风北欧花瓶客厅插花轻奢水晶玻璃玫瑰卧室网红水养装饰品摆件</td><td>淘宝家居店</td><td class='best'>¥51.8</td><td>水晶玻璃材质，ins北欧风，已售1000+件，好评92</td><td><a href='https://au.world.taobao.com/product/ins%E8%8A%B1%E7%93%B6%E5%8C%97%E6%AC%A7.htm'>查看</a></td></tr><tr><td>北欧风格创意小花瓶装饰摆件一对依偎花瓶摆设ins风</td><td>淘宝家居店</td><td>¥18</td><td>北欧创意设计，一对装依偎花瓶，适合桌面摆件</td><td><a href='https://my.world.taobao.com/product/%E5%8C%97%E6%AC%A7ins%E9%A3%8E%E8%8A%B1%E7%93%B6%E6%91%86%E8%AE%BE.htm'>查看</a></td></tr><tr><td>落地花瓶ins北欧风客厅陶瓷大花瓶</td><td>淘宝家居店</td><td>¥89-199</td><td>陶瓷材质，落地大花瓶，北欧简约，适合客厅/玄关</td><td><a href='https://sg.world.taobao.com/product/%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6ins%E9%A3%8E.htm'>查看</a></td></tr><tr><td>轻奢水晶玻璃花瓶摆件客厅插花装饰</td><td>淘宝家居店</td><td>¥68-128</td><td>轻奢风水晶玻璃，客厅插花装饰，质感高级</td><td><a href='https://www.taobao.com/list/product/%E8%8A%B1%E7%93%B6ins%E9%A3%8E%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6.htm'>查看</a></td></tr>",
+    "table": "<tr><td>ins风北欧花瓶客厅插花轻奢水晶玻璃玫瑰卧室网红水养装饰品摆件</td><td>淘宝北欧家居店</td><td class='best'>¥51.8</td><td>水晶玻璃材质，ins北欧风，已售1000+件</td><td><a href='https://au.world.taobao.com/product/ins%E8%8A%B1%E7%93%B6%E5%8C%97%E6%AC%A7.htm'>查看</a></td></tr><tr><td>北欧风格创意小花瓶装饰摆件一对依偎花瓶摆设ins风</td><td>淘宝创意家居</td><td>¥18</td><td>北欧创意设计，一对装依偎花瓶，桌面摆件</td><td><a href='https://my.world.taobao.com/product/%E5%8C%97%E6%AC%A7ins%E9%A3%8E%E8%8A%B1%E7%93%B6%E6%91%86%E8%AE%BE.htm'>查看</a></td></tr><tr><td>落地花瓶ins北欧风客厅陶瓷大花瓶</td><td>淘宝陶瓷家居店</td><td>¥89-199</td><td>陶瓷材质，落地大花瓶，北欧简约风格</td><td><a href='https://sg.world.taobao.com/product/%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6ins%E9%A3%8E.htm'>查看</a></td></tr>",
     "images": []
   },
   "jd": {
@@ -343,6 +343,11 @@
     {
       "url": "https://sg.world.taobao.com/product/%E8%90%BD%E5%9C%B0%E8%8A%B1%E7%93%B6ins%E9%A3%8E.htm",
       "text": "落地陶瓷花瓶 - 淘宝¥89起",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://my.world.taobao.com/product/%E5%8C%97%E6%AC%A7ins%E9%A3%8E%E8%8A%B1%E7%93%B6%E6%91%86%E8%AE%BE.htm",
+      "text": "北欧创意小花瓶一对 - 淘宝¥18",
       "platform": "taobao"
     }
   ],
