@@ -1,0 +1,515 @@
+{
+  "task_id": 18,
+  "title": "男戒指选购攻略（婚礼对戒/婚戒618特辑）",
+  "deadline": {
+    "coupon_collection": "2025-06-10",
+    "order_window": "2025-06-10 ~ 2025-06-15"
+  },
+  "summary": "婚礼用男戒指（对戒/婚戒）选购指南，基于Firecrawl全网搜索整理的618优惠攻略。涵盖国际奢侈品牌（Cartier、Tiffany、BVLGARI、Chaumet等）、国内知名品牌（周大福、周生生、DR、I Do等）以及日系品牌（I-PRIMO等）的男戒推荐，包含材质对比、预算分配、618购买策略等核心内容。",
+  "search_keywords": [
+    "男戒 推荐 品牌 2025",
+    "男士婚戒 对戒 推荐 性价比",
+    "DR 周大福 I Do 男戒 婚戒 对比 2025",
+    "Cartier Tiffany 男士婚戒 价格 对戒",
+    "男士婚戒 选购指南 材质 预算 2025 618",
+    "BVLGARI 宝格丽 男士婚戒 对戒 价格 2025",
+    "I-PRIMO 日本 婚戒 男戒 价格 品牌 2025",
+    "618 婚戒 优惠 折扣 2025 男戒",
+    "Chopard Chaumet DeBeers 男士婚戒 对戒",
+    "性价比 男戒 对戒 品牌 推荐 国内 2025",
+    "周生生 周大福 婚戒 618 折扣 2025",
+    "男士结婚戒指 铂金 K金 材质 怎么选"
+  ],
+  "categories": [
+    {
+      "name": "按品牌档次分类",
+      "items": [
+        {
+          "tier": "国际奢侈品牌（预算5万+）",
+          "description": "顶级珠宝品牌，设计经典辨识度高，保值属性好，适合预算充裕的新人",
+          "brands": [
+            {
+              "name": "Cartier 卡地亚",
+              "flagship_series": ["LOVE系列", "Trinity系列", "C de Cartier系列"],
+              "price_range": "¥8,000~¥50,000+（对戒）",
+              "男戒推荐": "LOVE系列宽版（18K金约NT$75,500/约¥17,000），Trinity三色金戒指",
+              "pros": ["辨识度极高", "经典隽永", "中性设计适合情侣对戒"],
+              "cons": ["价格较高", "仿品多需专柜购买"],
+              "source": "https://www.cartier.com/zh-tw/%E7%8F%A0%E5%AF%B6/%E5%A9%9A%E6%88%92/%E6%89%80%E6%9C%89%E7%94%B7%E5%A3%AB%E7%B3%BB%E5%88%97/"
+            },
+            {
+              "name": "Tiffany & Co. 蒂芙尼",
+              "flagship_series": ["Tiffany T系列", "Tiffany 1837系列", "Tiffany HardWear系列"],
+              "price_range": "¥5,000~¥40,000+",
+              "男戒推荐": "Tiffany T 18K金戒指、Tiffany Forever 6mm铂金婚戒（约$2,800 USD）",
+              "pros": ["经典美式风格", "T系列男女皆宜", "入门款价格相对亲民"],
+              "cons": ["中国内地价格偏高", "部分款较纤细偏女性化"],
+              "source": "https://www.zh.tiffany.com/jewelry/shop/mens-rings/"
+            },
+            {
+              "name": "BVLGARI 宝格丽",
+              "flagship_series": ["Serpenti Viper系列", "B.zero1系列", "Infinito系列"],
+              "price_range": "¥10,000~¥60,000+",
+              "男戒推荐": "Serpenti Viper 18K玫瑰金婚戒、B.zero1系列戒指",
+              "pros": ["意式大胆设计", "灵蛇造型独特", "时尚感强"],
+              "cons": ["宽版较厚重", "价格高端"],
+              "source": "https://www.bulgari.com/zh-tw/%E5%AE%9A%E6%83%85%E6%88%92%E5%92%8C%E5%A9%9A%E6%88%92/"
+            },
+            {
+              "name": "Chaumet 尚美巴黎",
+              "flagship_series": ["Liens Évidence系列", "Bee de Chaumet系列", "Joséphine系列"],
+              "price_range": "¥12,000~¥50,000+",
+              "男戒推荐": "Liens Évidence系列铂金戒、旋爱系列（杨佑宁同款）",
+              "pros": ["法式优雅", "Liens寓意'连结'", "低调奢华"],
+              "cons": ["国内知名度不如Cartier", "入门款选择较少"],
+              "source": "https://www.chaumet.com/cn_zh/bridal/men-wedding-bands"
+            },
+            {
+              "name": "De Beers 戴比尔斯",
+              "flagship_series": ["DB Classic系列", "Milgrain系列", "Talisman系列"],
+              "price_range": "¥5,000~¥40,000+",
+              "男戒推荐": "DB Classic铂金戒约¥10,500、Eternity半圈镶钻铂金约¥38,000",
+              "pros": ["钻石权威", "铂金工艺精湛", "男戒款式简约大方"],
+              "cons": ["设计偏保守", "价格梯度大"],
+              "source": "https://www.debeers.com.cn/zh-cn/engagement-bridal/wedding-bands/"
+            },
+            {
+              "name": "Chopard 萧邦",
+              "flagship_series": ["Ice Cube系列", "Happy Diamonds系列"],
+              "price_range": "¥10,000~¥50,000+",
+              "pros": ["瑞士奢华工艺", "Ice Cube几何设计适合男性"],
+              "cons": ["中国门店较少"],
+              "source": "https://www.chopard.cn/zh-cn/jewellery-wedding-rings"
+            },
+            {
+              "name": "Boucheron 宝诗龙",
+              "flagship_series": ["Quatre系列", "Serpent Bohème系列"],
+              "price_range": "¥15,000~¥60,000+",
+              "pros": ["法式自由精神", "Quatre四圈设计辨识度高"],
+              "cons": ["价格昂贵", "渠道少"],
+              "source": "https://stage.taipei101mall.com.tw/article/111"
+            }
+          ]
+        },
+        {
+          "tier": "国内知名品牌（预算1万~3万）",
+          "description": "性价比高、网点多、售后方便，适合追求实用与品质兼顾的新人",
+          "brands": [
+            {
+              "name": "周大福",
+              "flagship_series": ["情约系列", "传喜系列", "花月佳期系列"],
+              "price_range": "¥2,000~¥20,000",
+              "男戒推荐": "情约系列铂金/18K金对戒（约¥3,000~¥8,000/对）、传喜系列足金戒指",
+              "pros": ["国内门店极多", "品牌信赖度高", "性价比不错", "618低至65折"],
+              "cons": ["设计偏传统", "高端款不如奢侈品牌精致"],
+              "source": "https://www.ctf.com.cn/zh-hans/jewelry/rings/index.html"
+            },
+            {
+              "name": "周生生",
+              "flagship_series": ["Promessa系列", "V&A系列"],
+              "price_range": "¥2,000~¥15,000",
+              "男戒推荐": "Promessa系列铂金对戒、黄金素戒约¥1,000+",
+              "pros": ["工艺细腻", "设计多元化", "618常有重磅折扣（叠加券满2500减640）"],
+              "cons": ["部分款式偏女性化", "黄金类受金价影响大"],
+              "source": "https://www.smzdm.com/p/82456211/"
+            },
+            {
+              "name": "DR 钻戒",
+              "flagship_series": ["MY HEART系列", "BELIEVE系列", "TRUE LOVE系列"],
+              "price_range": "¥3,000~¥30,000",
+              "男戒推荐": "BELIEVE系列铂金对戒、TRUE LOVE系列男戒",
+              "pros": ["绑定身份证一生仅送一人", "品牌故事性强", "男戒设计硬朗"],
+              "cons": ["购买需实名制", "退换政策严格"],
+              "source": "https://www.jd.com/phb/6144fae3bc27d3cf2ac0.html"
+            },
+            {
+              "name": "I Do",
+              "flagship_series": ["Promise系列", "Beauty系列"],
+              "price_range": "¥3,000~¥25,000",
+              "男戒推荐": "Promise铂金对戒系列，男戒搭配一颗钻石简约设计",
+              "pros": ["品牌命名浪漫", "设计年轻时尚", "明星代言加持"],
+              "cons": ["性价比中等", "部分店铺服务评价不一"],
+              "source": "https://world.taobao.com/lang/zh-tw/goods/11055546.htm"
+            }
+          ]
+        },
+        {
+          "tier": "日系/亚洲品牌（预算1万~3万）",
+          "description": "做工精细、款式丰富、适合亚洲人手型，性价比极高",
+          "brands": [
+            {
+              "name": "I-PRIMO",
+              "flagship_series": ["星座系列", "神话系列", "自然灵感系列"],
+              "price_range": "¥5,000~¥30,000",
+              "男戒推荐": "铂金男戒约¥5,000起、200+款可选，自由搭配裸钻",
+              "pros": ["日本最大婚戒品牌", "200+款设计", "可定制裸钻", "日本职人工艺", "手型分析服务"],
+              "cons": ["内地门店较少", "定制周期较长"],
+              "source": "https://www.iprimo.tw/"
+            },
+            {
+              "name": "ALUXE 亚立诗",
+              "flagship_series": ["Nature系列", "ROSÉ My Love系列", "迪士尼系列"],
+              "price_range": "¥3,000~¥20,000",
+              "男戒推荐": "Nature系列铂金对戒、德国工艺铂金戒",
+              "pros": ["Vogue推荐品牌", "设计多元", "性价比高"],
+              "cons": ["品牌知名度不如周大福"],
+              "source": "https://www.aluxe.com/media/vogue-2025-bridal-ring-recommendation__1/"
+            },
+            {
+              "name": "K.UNO",
+              "price_range": "¥5,000~¥30,000",
+              "pros": ["日本定制珠宝", "动漫联名多", "完全客制化"],
+              "cons": ["定制周期较长"],
+              "source": "http://www.bazaartrends.com/news/20250912/17552.html"
+            },
+            {
+              "name": "NIWAKA",
+              "price_range": "¥8,000~¥30,000",
+              "pros": ["日本高端婚戒", "融合和风美学", "手工打造"],
+              "cons": ["价格偏高", "国内知名度低"],
+              "source": "http://www.bazaartrends.com/news/20250912/17552.html"
+            }
+          ]
+        },
+        {
+          "tier": "高性价比/平价品牌（预算¥500~¥5,000）",
+          "description": "适合预算有限的新人，或作为日常佩戴的情侣对戒",
+          "brands": [
+            {
+              "name": "老凤祥",
+              "price_range": "¥500~¥5,000",
+              "pros": ["京东男戒排行榜TOP1", "黄金工艺成熟", "网点极多"],
+              "source": "https://www.jd.com/phb/6144fae3bc27d3cf2ac0.html"
+            },
+            {
+              "name": "中国黄金",
+              "price_range": "¥500~¥5,000",
+              "pros": ["央企品牌", "金价透明", "性价比高"],
+              "source": "https://www.jd.com/phb/6144fae3bc27d3cf2ac0.html"
+            },
+            {
+              "name": "Pandora",
+              "price_range": "¥500~¥3,000",
+              "pros": ["全球知名平价款", "款式多样", "925银材质为主"],
+              "source": "https://omgmenaccessoryhongkong.com/pages/2025%E5%B9%B3%E5%83%B9%E7%94%B7%E5%A3%AB%E6%88%92%E6%8C%87%E6%8E%A8%E8%96%A6-omg-men-accessory%E9%A6%99%E6%B8%AF%E5%93%81%E7%89%8C"
+            },
+            {
+              "name": "Daniel Wellington",
+              "price_range": "¥500~¥2,000",
+              "pros": ["瑞典简约设计", "价格亲民", "男女对戒皆可"],
+              "source": "https://omgmenaccessoryhongkong.com/pages/2025%E5%B9%B3%E5%83%B9%E7%94%B7%E5%A3%AB%E6%88%92%E6%8C%87%E6%8E%A8%E8%96%A6-omg-men-accessory%E9%A6%99%E6%B8%AF%E5%93%81%E7%89%8C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "按材质分类",
+      "items": [
+        {
+          "material": "铂金（Pt950）",
+          "description": "最受欢迎的高端男戒材质，天然银白色泽，永不褪色",
+          "pros": ["天然光泽永不变色", "极低致敏性", "密度高有分量感", "象征永恒"],
+          "cons": ["价格较高", "比18K金软，易有划痕"],
+          "price_range": "¥3,000~¥30,000+",
+          "popular_brands": ["Cartier LOVE铂金", "Tiffany Forever铂金", "I-PRIMO铂金系列", "周大福情约铂金"],
+          "care_tips": "避免与坚硬物体碰撞，定期抛光恢复光泽，洗澡/运动时建议取下"
+        },
+        {
+          "material": "18K金（K白金/K黄金/K玫瑰金）",
+          "description": "最主流的男戒材质，硬度高不易变形，颜色选择多",
+          "pros": ["硬度高耐久好", "颜色丰富", "价格比铂金亲民", "镶嵌钻石牢固"],
+          "cons": ["K白金需定期镀铑保养", "长期佩戴可能褪色"],
+          "price_range": "¥1,500~¥20,000+",
+          "popular_brands": ["Cartier Trinity（三金）", "BVLGARI Serpenti", "周大福18K金系列"],
+          "care_tips": "K白金建议每1-2年电镀一次恢复光泽，避免接触化学品"
+        },
+        {
+          "material": "足金/黄金（纯度99.9%）",
+          "description": "传统婚嫁首选，保值性强，2025年金价处于历史高位",
+          "pros": ["保值增值", "传统婚嫁属性", "不褪色", "可融金重做"],
+          "cons": ["质地软易变形", "颜色偏黄挑肤色", "适合素戒不适合镶钻"],
+          "price_range": "¥1,000~¥10,000（随金价波动）",
+          "popular_brands": ["周大福传喜系列", "老凤祥足金", "周生生黄金素戒"],
+          "care_tips": "黄金较软，素戒避免拉扯变形，清洗用软布"
+        },
+        {
+          "material": "925纯银/精钢/钛金属",
+          "description": "平价入门材质，适合预算有限或追求个性风格",
+          "pros": ["价格亲民¥500以内", "风格时尚", "钛金属超轻", "精钢硬度高"],
+          "cons": ["925银易氧化变黑", "质感不如贵金属", "不适合正式婚戒"],
+          "price_range": "¥100~¥1,500",
+          "popular_brands": ["Pandora", "Daniel Wellington", "Thomas Sabo", "The Great Frog"],
+          "care_tips": "银饰用擦银布保养，不佩戴时密封保存"
+        }
+      ]
+    }
+  ],
+  "product_recommendations": [
+    {
+      "name": "Cartier LOVE 系列宽版戒指",
+      "type": "奢侈品牌经典款",
+      "price": "约¥17,000~¥25,000",
+      "features": "18K金/铂金材质，标志性螺丝设计，男女皆可佩戴，是婚戒第一热门款",
+      "rating": "★★★★★",
+      "source": "https://www.elle.com/tw/fashion/luxury/g45526622/wedding-ring-brands/"
+    },
+    {
+      "name": "Cartier Trinity 三色金戒指",
+      "type": "奢侈品牌经典款",
+      "price": "约¥12,000~¥20,000",
+      "features": "18K黄金/白金/玫瑰金三环交织，象征爱情/友谊/忠诚，中性款对戒首选",
+      "rating": "★★★★★",
+      "source": "https://jybarrack.com/%E3%80%90%E7%B5%90%E5%A9%9A%E6%88%92%E6%8C%87%E6%8E%A8%E8%96%A62025%E3%80%916%E5%A4%A7%E4%BA%BA%E6%B0%A3%E5%A9%9A%E6%88%92%E5%93%81%E7%89%8C%EF%BC%8B%E9%81%B8%E8%B3%BC%E6%8C%87%E5%8D%97%EF%BC%8C/"
+    },
+    {
+      "name": "Tiffany T 系列 18K金戒指",
+      "type": "奢侈品牌热门款",
+      "price": "约¥10,000~¥18,000",
+      "features": "简约T字设计，宽版适合男性，可配情侣对戒",
+      "rating": "★★★★☆",
+      "source": "https://www.zh.tiffany.com/jewelry/shop/mens-rings/"
+    },
+    {
+      "name": "BVLGARI Serpenti Viper 玫瑰金戒指",
+      "type": "奢侈品牌热门款",
+      "price": "约¥15,000~¥30,000",
+      "features": "标志性灵蛇鳞片设计，18K玫瑰金，宽版充满力量感",
+      "rating": "★★★★★",
+      "source": "https://tw.news.yahoo.com/%E7%95%B6%E5%80%8B%E6%9C%80%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%85%AD%E6%9C%88%E6%96%B0%E5%A8%98-2025%E5%B9%B4%E6%BA%96%E6%96%B0%E4%BA%BA%E5%BF%85%E6%94%B6%E8%97%8F8%E5%A4%A7%E5%93%81%E7%89%8C%E5%A4%A2%E5%B9%BB%E5%B0%8D%E6%88%92%E6%B8%85%E5%96%AE-074600574.html"
+    },
+    {
+      "name": "Chaumet Liens Évidence 铂金对戒",
+      "type": "奢侈品牌经典款",
+      "price": "约¥12,000~¥25,000",
+      "features": "极简铂金戒环，内圈镶嵌一颗钻石，寓意'连结'，杨佑宁同款",
+      "rating": "★★★★★",
+      "source": "https://zhuanlan.zhihu.com/p/257996009"
+    },
+    {
+      "name": "De Beers DB Classic 铂金戒指",
+      "type": "奢侈品牌入门款",
+      "price": "约¥10,500",
+      "features": "铂金素戒设计，简约百搭，钻石权威品牌品质保证",
+      "rating": "★★★★☆",
+      "source": "https://www.debeers.com.cn/zh-cn/engagement-bridal/wedding-bands/"
+    },
+    {
+      "name": "周大福 情约系列铂金对戒",
+      "type": "国内品牌热门款",
+      "price": "约¥3,000~¥8,000/对",
+      "features": "铂金材质，简约线条，搭配小钻设计，618期间低至65折",
+      "rating": "★★★★☆",
+      "source": "https://www.ctf.com.cn/zh-hans/jewelry/series/info_925.html"
+    },
+    {
+      "name": "I-PRIMO 铂金男戒",
+      "type": "日系品牌定制款",
+      "price": "约¥5,000~¥15,000",
+      "features": "200+款可选，日本职人手工打造，适合亚洲人手型，可自由搭配钻石",
+      "rating": "★★★★★",
+      "source": "https://www.iprimo.tw/"
+    },
+    {
+      "name": "DR BELIEVE系列铂金对戒",
+      "type": "国内品牌热门款",
+      "price": "约¥5,000~¥12,000",
+      "features": "一生仅送一人的品牌理念，男戒设计硬朗大气",
+      "rating": "★★★★☆",
+      "source": "https://www.jd.com/phb/6144fae3bc27d3cf2ac0.html"
+    },
+    {
+      "name": "I Do Promise铂金对戒",
+      "type": "国内品牌热门款",
+      "price": "约¥4,000~¥10,000",
+      "features": "女戒三颗小钻，男戒一颗钻石呼应，简约大气",
+      "rating": "★★★★☆",
+      "source": "https://zhuanlan.zhihu.com/p/524281744"
+    },
+    {
+      "name": "周生生 Promessa系列铂金对戒",
+      "type": "国内品牌热门款",
+      "price": "约¥3,000~¥8,000/对",
+      "features": "香港经典婚戒品牌，618叠加券满2500减640，黄金素戒¥1,000+",
+      "rating": "★★★★☆",
+      "source": "https://www.smzdm.com/p/82456211/"
+    },
+    {
+      "name": "KINJO 草山金工 经典对戒",
+      "type": "手工定制品牌",
+      "price": "约NT$7,500~NT$8,000（约¥1,700~¥1,800）/对",
+      "features": "618年中庆特价对戒仅$7,500~$8,000，可刻指纹印记，手工制作意义独特",
+      "rating": "★★★★☆",
+      "source": "https://www.kinjo.co/pages/2025-white-day"
+    }
+  ],
+  "shopping_guide": {
+    "618购买策略": {
+      "coupon_timing": "建议6月10日前领完品牌优惠券、平台红包和跨店满减券。周大福、周生生等品牌618通常有65折~满减叠加活动",
+      "order_timing": "6月10日-6月15日下单，避开6月1日开门红和6月18日当日物流高峰，确保按时到货",
+      "platform_strategy": [
+        {
+          "platform": "京东",
+          "tips": "关注珠宝品类满减券、Plus会员专享价；周生生叠加券满2500减640力度大；京东自营配送安全可靠"
+        },
+        {
+          "platform": "淘宝/天猫",
+          "tips": "88VIP可叠加消费券，关注跨店满减（每满200减30等），周大福/周生生官方旗舰店有专属618活动"
+        },
+        {
+          "platform": "品牌官网/线下门店",
+          "tips": "奢侈品牌（Cartier/Tiffany/BVLGARI）官网或线下专柜款式最全，部分品牌会员享额外折扣或礼品服务"
+        }
+      ]
+    },
+    "选购要点": [
+      "1. 先确定预算范围：奢侈品牌5万+/国内品牌1-3万/平价品牌500-5000",
+      "2. 对戒搭配法则：颜色一致（同材质）、线条相似、风雷同",
+      "3. 男戒宽度建议：手指较粗选6-8mm宽版，手指偏细选4-6mm窄版",
+      "4. 材质选铂金最经典（永不褪色），18K金更耐磨性价比高",
+      "5. 圈口尺寸务必提前测量，推荐下午测量（手指较上午略胀）",
+      "6. 品牌选择：追求品牌溢价选Cartier/Tiffany/Chaumet，追求性价比选周大福/I-PRIMO/DR",
+      "7. 定制周期：奢侈品牌现货即买即走，日系定制需1-3个月，务必提前规划",
+      "8. 售后保养：铂金可终身免费抛光（大部分品牌），K白金需定期镀铑",
+      "9. 618特别提示：黄金类随金价波动，关注金价走势择机下单"
+    ],
+    "注意事项": [
+      "618期间珠宝类满减券名额有限，建议提前领券",
+      "奢侈品牌价格相对稳定，618主要看平台优惠而非品牌打折",
+      "国内品牌（周大福/周生生）618折扣力度最大，可低至65折",
+      "黄金类产品价格随国际金价波动，2025年金价处于历史高位",
+      "网购珠宝务必选择官方旗舰店或授权经销商，警惕仿品",
+      "收到后检查圈口大小、材质标识、品牌刻印是否清晰",
+      "婚戒建议最晚婚礼前1个月到手，留足定制和换货时间"
+    ],
+    "sources": [
+      "https://www.aluxe.com/blog/wedding-ring-budget-guide/",
+      "https://www.aluxe.com/blog/guide-to-mens-wedding-rings/",
+      "https://www.joycolori.com/blog/mens-wedding-ring-guide/",
+      "https://wedding.esdlife.com/articles/wedding-jewelry/%E5%A9%9A%E6%88%92%E6%8E%A8%E8%96%A6-%E7%B5%90%E5%A9%9A%E6%88%92%E6%8C%87%E7%B6%93%E5%85%B8%E5%93%81%E7%89%8C-%E6%AC%BE%E5%BC%8F-%E5%83%B9%E9%8C%A2%E6%AF%94%E8%BC%83/",
+      "https://www.diamond-shiraishi.hk/blog/%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E6%9C%80%E9%81%A9%E5%90%88%E7%9A%84%E7%B5%90%E5%A9%9A%E5%B0%8D%E6%88%92%EF%BC%9F%E6%95%99%E4%BD%A0%E6%9D%90%E8%B3%AA%E3%80%81%E8%A8%AD%E8%A8%88%E8%88%87%E9%A0%90/"
+    ]
+  },
+  "search_sources": [
+    {
+      "keyword": "男戒 推荐 品牌 2025",
+      "url": "https://stage.taipei101mall.com.tw/article/111",
+      "title": "12大婚戒品牌2025新款鑽戒排行"
+    },
+    {
+      "keyword": "男戒 推荐 品牌 2025",
+      "url": "https://www.gq.com.tw/article/ring-brands-for-men",
+      "title": "盤點10個男士戒指品牌"
+    },
+    {
+      "keyword": "男戒 推荐 品牌 2025",
+      "url": "https://omgmenaccessoryhongkong.com/pages/2025%E5%B9%B3%E5%83%B9%E7%94%B7%E5%A3%AB%E6%88%92%E6%8C%87%E6%8E%A8%E8%96%A6-omg-men-accessory%E9%A6%99%E6%B8%AF%E5%93%81%E7%89%8C",
+      "title": "十款時尚平價男士戒指款式及品牌推薦"
+    },
+    {
+      "keyword": "男士婚戒 对戒 推荐 性价比",
+      "url": "https://wedding.esdlife.com/articles/wedding-jewelry/%E5%A9%9A%E6%88%92%E6%8E%A8%E8%96%A6-%E7%B5%90%E5%A9%9A%E6%88%92%E6%8C%87%E7%B6%93%E5%85%B8%E5%93%81%E7%89%8C-%E6%AC%BE%E5%BC%8F-%E5%83%B9%E9%8C%A2%E6%AF%94%E8%BC%83/",
+      "title": "結婚戒指推薦2026|14大婚戒品牌設計、材質及價錢參考"
+    },
+    {
+      "keyword": "男士婚戒 对戒 推荐 性价比",
+      "url": "https://www.aluxe.com/blog/guide-to-mens-wedding-rings/",
+      "title": "男婚戒怎麼挑？5大對戒搭配法則"
+    },
+    {
+      "keyword": "男士婚戒 对戒 推荐 性价比",
+      "url": "https://www.jd.com/phb/6144fae3bc27d3cf2ac0.html",
+      "title": "男士戒指婚戒品牌排行榜-京东"
+    },
+    {
+      "keyword": "DR 周大福 I Do 男戒 婚戒 对比 2025",
+      "url": "https://zhuanlan.zhihu.com/p/524281744",
+      "title": "2022钻戒怎么选？喜钻、周大福、I Do、DR、TSL谢瑞麟"
+    },
+    {
+      "keyword": "DR 周大福 I Do 男戒 婚戒 对比 2025",
+      "url": "https://world.taobao.com/lang/zh-tw/goods/11055546.htm",
+      "title": "2025 I Do Promise鉑金對戒｜PT950鑽石婚戒推薦"
+    },
+    {
+      "keyword": "Cartier Tiffany 男士婚戒 价格 对戒",
+      "url": "https://www.elle.com/tw/fashion/luxury/g45526622/wedding-ring-brands/",
+      "title": "2024婚戒價格總整理！10大經典品牌婚戒對戒"
+    },
+    {
+      "keyword": "Cartier Tiffany 男士婚戒 价格 对戒",
+      "url": "https://www.cartier.com/zh-tw/%E7%8F%A0%E5%AF%B6/%E5%A9%9A%E6%88%92/%E6%89%80%E6%9C%89%E7%94%B7%E5%A3%AB%E7%B3%BB%E5%88%97/",
+      "title": "卡地亞男士婚戒"
+    },
+    {
+      "keyword": "男士婚戒 选购指南 材质 预算 2025 618",
+      "url": "https://www.aluxe.com/blog/wedding-ring-budget-guide/",
+      "title": "婚戒預算怎麼抓？從材質到鑽石等級的完整花費指南"
+    },
+    {
+      "keyword": "男士婚戒 选购指南 材质 预算 2025 618",
+      "url": "https://www.joycolori.com/blog/mens-wedding-ring-guide/",
+      "title": "男生婚戒怎麼選？材質、寬度與風格全解析"
+    },
+    {
+      "keyword": "男士婚戒 选购指南 材质 预算 2025 618",
+      "url": "https://gentlebands.com/zh/blog/mens-wedding-ring-trends-2025/",
+      "title": "男士結婚戒指趨勢：2025年您會愛上的9種款式"
+    },
+    {
+      "keyword": "BVLGARI 宝格丽 男士婚戒 对戒 价格 2025",
+      "url": "https://www.bulgari.com/zh-tw/%E5%AE%9A%E6%83%85%E6%88%92%E5%92%8C%E5%A9%9A%E6%88%92/",
+      "title": "寶格麗對戒/定情戒"
+    },
+    {
+      "keyword": "BVLGARI 宝格丽 男士婚戒 对戒 价格 2025",
+      "url": "https://tw.news.yahoo.com/%E7%95%B6%E5%80%8B%E6%9C%80%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%85%AD%E6%9C%88%E6%96%B0%E5%A8%98-2025%E5%B9%B4%E6%BA%96%E6%96%B0%E4%BA%BA%E5%BF%85%E6%94%B6%E8%97%8F8%E5%A4%A7%E5%93%81%E7%89%8C%E5%A4%A2%E5%B9%BB%E5%B0%8D%E6%88%92%E6%B8%85%E5%96%AE-074600574.html",
+      "title": "2025年8大品牌夢幻對戒清單"
+    },
+    {
+      "keyword": "I-PRIMO 日本 婚戒 男戒 价格 品牌 2025",
+      "url": "https://www.iprimo.tw/",
+      "title": "I-PRIMO日本鑽石婚戒專門品牌"
+    },
+    {
+      "keyword": "I-PRIMO 日本 婚戒 男戒 价格 品牌 2025",
+      "url": "http://www.bazaartrends.com/news/20250912/17552.html",
+      "title": "2025结婚对戒性价比排行榜TOP5"
+    },
+    {
+      "keyword": "618 婚戒 优惠 折扣 2025 男戒",
+      "url": "https://www.smzdm.com/p/82456211/",
+      "title": "周生生618狂撒福利，爆款黄金叠券满2500减640"
+    },
+    {
+      "keyword": "618 婚戒 优惠 折扣 2025 男戒",
+      "url": "https://www.kinjo.co/pages/2025-white-day",
+      "title": "KINJO草山金工618年中慶"
+    },
+    {
+      "keyword": "Chopard Chaumet DeBeers 男士婚戒 对戒",
+      "url": "https://www.chaumet.com/cn_zh/bridal/men-wedding-bands",
+      "title": "CHAUMET男士婚戒系列"
+    },
+    {
+      "keyword": "Chopard Chaumet DeBeers 男士婚戒 对戒",
+      "url": "https://www.chopard.cn/zh-cn/jewellery-wedding-rings",
+      "title": "Chopard结婚对戒"
+    },
+    {
+      "keyword": "性价比 男戒 对戒 品牌 推荐 国内 2025",
+      "url": "https://www.vogue.com.tw/special/fall-2025-bridal-ring-catalog-brands",
+      "title": "2025婚戒推薦！涵蓋17個熱門知名珠寶品牌"
+    },
+    {
+      "keyword": "性价比 男戒 对戒 品牌 推荐 国内 2025",
+      "url": "https://www.jd.com/phb/6144fae3bc27d3cf2ac0.html",
+      "title": "京东男士戒指婚戒品牌排行榜"
+    },
+    {
+      "keyword": "周生生 周大福 婚戒 618 折扣 2025",
+      "url": "https://hk.news.yahoo.com/%E5%A9%9A%E6%88%92-%E6%8E%A8%E8%96%A6-%E5%91%A8%E7%94%9F%E7%94%9F-%E5%91%A8%E5%A4%A7%E7%A6%8F-%E7%B5%90%E5%A9%9A%E6%88%92%E6%8C%87-%E7%99%BD%E8%89%B2%E9%BB%83%E9%87%91-%E9%91%BD%E6%88%92-%E9%BB%83%E9%87%91-%E7%B4%A0%E6%88%92-004856197.html",
+      "title": "婚戒推薦2025｜周生生、周大福結婚戒指限時低至65折"
+    }
+  ]
+}

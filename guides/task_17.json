@@ -1,0 +1,277 @@
+{
+  "task_id": 17,
+  "title": "新房装饰花瓶选购攻略（618特辑）",
+  "deadline": {
+    "coupon_collection": "2025-06-05",
+    "order_window": "2025-06-10 ~ 2025-06-15"
+  },
+  "summary": "新房装饰花瓶选购指南，基于Firecrawl全网搜索整理的618优惠攻略。涵盖北欧ins风、轻奢风、现代简约等多种风格，玻璃、陶瓷等多种材质的推荐品牌和选购要点。",
+  "search_keywords": [
+    "花瓶 推荐 家居 装饰",
+    "花瓶 品牌 北欧 ins",
+    "落地花瓶 推荐 家居",
+    "桌面花瓶 陶瓷 玻璃 创意",
+    "618 花瓶 优惠 推荐",
+    "花瓶 选购 攻略 材质 陶瓷 玻璃",
+    "新房 装饰 花瓶 摆件 推荐",
+    "花瓶 京东 618 热销 排行榜",
+    "ins风花瓶 北欧 轻奢 客厅装饰",
+    "花瓶 品牌推荐 设计师 家居美学"
+  ],
+  "categories": [
+    {
+      "name": "按风格分类",
+      "items": [
+        {
+          "style": "北欧ins风",
+          "description": "简约线条、莫兰迪色系、哑光质感，适合年轻家庭",
+          "recommended_brands": ["Ferm Living", "KINTO", "IKEA GRADVIS", "Meric Garden"],
+          "price_range": "¥50~¥500",
+          "sources": [
+            "https://www.thetigerhood.com/10-summer-vase-vibe/",
+            "https://www.storemarais.com/category/21/119",
+            "https://www.vogue.com.tw/lifestyle/galerie/minimalist-vases"
+          ]
+        },
+        {
+          "style": "轻奢现代风",
+          "description": "金属搭配玻璃、大理石纹路、不规则几何造型",
+          "recommended_brands": ["Magis", "Cappellini", "101 Copenhagen", "Stelton"],
+          "price_range": "¥200~¥2000",
+          "sources": [
+            "https://www.thetigerhood.com/10-flower-vase/",
+            "https://www.luxurylife.com.tw/products/new-works-blaehr-vase"
+          ]
+        },
+        {
+          "style": "新中式风格",
+          "description": "景德镇陶瓷、青花瓷、釉变工艺，适合中式/新中式装修",
+          "recommended_brands": ["景德镇手工陶瓷", "皓杨", "初泥"],
+          "price_range": "¥50~¥1000",
+          "sources": [
+            "https://guangtao.taobao.com/topic-139400145.html",
+            "https://www.taobao.com/list/product/%E9%99%B6%E7%93%B7%E8%8A%B1%E7%93%B6%E8%AE%BE%E8%AE%A1%E5%B8%88"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "按材质分类",
+      "items": [
+        {
+          "material": "玻璃花瓶",
+          "pros": ["透明度高，便于观察水位", "易清洁", "价格亲民", "适合鲜花水养"],
+          "cons": ["易碎", "质感相对单一"],
+          "popular_types": ["透明水晶玻璃", "锤纹玻璃", "波纹玻璃", "渐变彩色玻璃"],
+          "price_range": "¥20~¥300",
+          "care_tips": "避免骤冷骤热，清洗时使用软布"
+        },
+        {
+          "material": "陶瓷花瓶",
+          "pros": ["质感温润", "造型丰富", "艺术性强", "适合干花/仿真花"],
+          "cons": ["较重", "价格差异大"],
+          "popular_types": ["哑光釉面", "手工拉胚", "釉变窑变", "手绘青花"],
+          "price_range": "¥30~¥2000",
+          "care_tips": "选釉面完全封闭的款式，避免多孔材质发霉"
+        },
+        {
+          "material": "金属花瓶",
+          "pros": ["现代感强", "耐用", "轻奢质感"],
+          "cons": ["导热快", "可能有锈蚀风险"],
+          "popular_types": ["金色/玫瑰金电镀", "银色镜面", "铁艺镂空"],
+          "price_range": "¥50~¥800"
+        }
+      ]
+    },
+    {
+      "name": "按用途/摆放位置分类",
+      "items": [
+        {
+          "location": "客厅落地花瓶",
+          "height": "40cm~80cm",
+          "description": "摆放在玄关、客厅角落或电视柜旁，起装饰和空间填充作用",
+          "recommended_placement": "玄关（入门第一印象）、客厅角落（填补空间）、沙发旁",
+          "price_range": "¥100~¥2000",
+          "sources": [
+            "https://finance.tom.com/202110/1417203545.html",
+            "https://m.fang.com/zhishi/jiaju/qg_211614.html"
+          ]
+        },
+        {
+          "location": "桌面/台面花瓶",
+          "height": "15cm~35cm",
+          "description": "放在餐桌、书桌、茶几上，适合插鲜切花或干花",
+          "recommended_placement": "餐桌中央、书桌一角、茶几、电视柜",
+          "price_range": "¥20~¥500",
+          "sources": [
+            "https://mdg.chinapp.com/ranking/47422.html",
+            "https://www.luxurylife.com.tw/blogs/blog/how_to_choose_vase"
+          ]
+        },
+        {
+          "location": "卧室/书房小花瓶",
+          "height": "10cm~20cm",
+          "description": "迷你尺寸，不干扰专注，透明材质让桌面光线更均匀",
+          "price_range": "¥15~¥200"
+        }
+      ]
+    }
+  ],
+  "product_recommendations": [
+    {
+      "name": "KINTO 玻璃花瓶",
+      "type": "桌面花瓶",
+      "price": "NT$500~NT$1500",
+      "features": "日式简约设计，厚实玻璃，曲线优美，适合单枝或小花束",
+      "rating": "★★★★★",
+      "source": "https://tw.my-best.com/114466"
+    },
+    {
+      "name": "Ferm Living RIBAN 花器",
+      "type": "桌面/装饰花瓶",
+      "price": "NT$1500~NT$3000",
+      "features": "丹麦设计品牌，简约线条，莫兰迪配色，极具质感",
+      "rating": "★★★★★",
+      "source": "https://www.storemarais.com/category/21/119"
+    },
+    {
+      "name": "IKEA GRADVIS 粉红花瓶",
+      "type": "落地/桌面花瓶",
+      "price": "¥99~¥199",
+      "features": "性价比高，不规则造型，粉红色调增添柔美气息",
+      "rating": "★★★★☆",
+      "source": "https://tw.my-best.com/114466"
+    },
+    {
+      "name": "景德镇青花陶瓷落地花瓶",
+      "type": "落地大花瓶",
+      "price": "¥348~¥1500",
+      "features": "传统手绘青花，中式家居经典，适合客厅/玄关",
+      "rating": "★★★★☆",
+      "source": "https://guangtao.taobao.com/topic-139400145.html"
+    },
+    {
+      "name": "北欧ins风锤纹玻璃花瓶",
+      "type": "桌面花瓶",
+      "price": "¥39~¥89",
+      "features": "轻奢质感，水波纹设计，光线折射效果好，网红爆款",
+      "rating": "★★★★☆",
+      "source": "https://www.taobao.com/list/product/%E8%8A%B1%E7%93%B6.htm"
+    },
+    {
+      "name": "贝汉美陶瓷花瓶",
+      "type": "桌面花瓶",
+      "price": "¥28~¥78",
+      "features": "价格亲民，创意造型多，适合年轻人家居装饰",
+      "rating": "★★★★☆",
+      "source": "https://product.pchouse.com.cn/list/c64.html"
+    }
+  ],
+  "shopping_guide": {
+    "618购买策略": {
+      "coupon_timing": "建议6月5日前领完优惠券和平台红包",
+      "order_timing": "6月10日-6月15日下单，避开6月1日开门红高峰和6月18日尾款高峰",
+      "platform_strategy": [
+        {
+          "platform": "京东",
+          "tips": "关注花瓶品类满减券、Plus会员专享价、京东超市自营配送快"
+        },
+        {
+          "platform": "淘宝/天猫",
+          "tips": "88VIP可叠加消费券，关注跨店满减（每满200减30等），直播间额外优惠"
+        },
+        {
+          "platform": "拼多多",
+          "tips": "百亿补贴频道价格有优势，适合购买基础款玻璃花瓶"
+        }
+      ]
+    },
+    "选购要点": [
+      "1. 先确定摆放位置（落地/桌面），再选尺寸和风格",
+      "2. 新房装修风格统一：北欧风选简洁线条，中式选陶瓷，现代选金属/玻璃",
+      "3. 玻璃花瓶选瓶底平稳、壁厚均匀、透明度高的",
+      "4. 陶瓷花瓶选釉面完全封闭的，避免多孔材质在潮湿气候下发霉",
+      "5. 小空间选细长型花瓶，视觉上不占地方",
+      "6. 落地花瓶高度建议40-80cm，具体根据摆放位置和层高决定",
+      "7. 套装搭配：建议买2-3个不同高度/形状的花瓶组合摆放更有层次感"
+    ],
+    "注意事项": [
+      "618期间物流压力大，易碎品建议加购运费险或保价",
+      "花瓶类商品验收时检查有无裂纹、气泡、色差",
+      "落地大花瓶注意底部防滑垫，避免倾倒"
+    ],
+    "sources": [
+      "https://www.luxurylife.com.tw/blogs/blog/how_to_choose_vase",
+      "https://world.taobao.com/lang/zh-tw/shopping-guide/1884815924435877888.htm",
+      "https://www.garboglass.com/zh-CN/news/the-using-tips-for-glass-vase.html",
+      "https://zhuanlan.zhihu.com/p/67569319"
+    ]
+  },
+  "search_sources": [
+    {
+      "keyword": "花瓶 推荐 家居 装饰",
+      "url": "https://www.thetigerhood.com/10-summer-vase-vibe/",
+      "title": "10款设计师花瓶推荐"
+    },
+    {
+      "keyword": "花瓶 推荐 家居 装饰",
+      "url": "https://www.vogue.com.tw/lifestyle/galerie/minimalist-vases",
+      "title": "15款精致花瓶推荐"
+    },
+    {
+      "keyword": "花瓶 推荐 家居 装饰",
+      "url": "https://review.com.tw/花瓶推薦/",
+      "title": "2024最佳8款花瓶推荐"
+    },
+    {
+      "keyword": "花瓶 推荐 家居 装饰",
+      "url": "https://tw.my-best.com/114466",
+      "title": "10大花瓶推荐排行榜"
+    },
+    {
+      "keyword": "花瓶 品牌 北欧 ins",
+      "url": "https://www.jd.com/brand/162025cc9d1ae48f4ae3.html",
+      "title": "北欧陶瓷花瓶品牌-京东"
+    },
+    {
+      "keyword": "落地花瓶 推荐 家居",
+      "url": "https://www.rakuten.com.tw/search/客廳陶瓷落地花瓶/",
+      "title": "客厅陶瓷落地花瓶-乐天市场"
+    },
+    {
+      "keyword": "落地花瓶 推荐 家居",
+      "url": "https://www.jd.com/phb/zhishi/9777afa4eb1df251.html",
+      "title": "落地瓶插花十大排名-京东"
+    },
+    {
+      "keyword": "新房 装饰 花瓶 摆件 推荐",
+      "url": "https://auto.ifeng.com/c/7gZNGDJOv7k",
+      "title": "新房客厅装饰品花瓶摆件排行榜"
+    },
+    {
+      "keyword": "ins风花瓶 北欧 轻奢 客厅装饰",
+      "url": "https://buy.line.me/u/article/549647",
+      "title": "8款ins风花瓶推荐"
+    },
+    {
+      "keyword": "花瓶 品牌推荐 设计师 家居美学",
+      "url": "https://zhuanlan.zhihu.com/p/357544147",
+      "title": "设计师推荐-48款经典花瓶"
+    },
+    {
+      "keyword": "花瓶 选购 攻略 材质 陶瓷 玻璃",
+      "url": "https://www.luxurylife.com.tw/blogs/blog/how_to_choose_vase",
+      "title": "花瓶怎么选？从尺寸、材质到空间搭配"
+    },
+    {
+      "keyword": "花瓶 选购 攻略 材质 陶瓷 玻璃",
+      "url": "https://zhuanlan.zhihu.com/p/67569319",
+      "title": "哪种材质的花瓶最好？"
+    },
+    {
+      "keyword": "618 花瓶 优惠 推荐",
+      "url": "https://www.jd.com/phb/zhishi/tag_3803dbd4fd5f25ae54f1.html",
+      "title": "京东618花瓶花艺排行榜"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "task_id": 15,
+  "title": "扫地机器人选购对比：石头 vs 科沃斯 vs 追觅 (618攻略)",
+  "purchase_window": {
+    "research_deadline": "2025-06-05",
+    "order_window": "2025-06-10 ~ 2025-06-15",
+    "platform": "优先京东",
+    "notes": "618大促期间，叠加国补+平台券+品牌优惠力度最大。建议关注6月10-15日期间的价格低谷"
+  },
+  "brands_comparison": [
+    {
+      "brand": "石头科技 (Roborock)",
+      "market_position": "全球出货量前二，算法和导航技术行业领先",
+      "strengths": [
+        "RR Mason算法精准导航和避障，路径规划行业最佳",
+        "双线激光避障技术成熟，低矮障碍物识别率高",
+        "吸力强劲（G30达22000Pa），清洁效果好",
+        "拖布自动抬升功能成熟，地毯清洁方案完善",
+        "零缠绕滚刷技术（防毛发缠绕效果优秀）",
+        "APP生态完善，智能家居联动性好"
+      ],
+      "weaknesses": [
+        "拖地清洁力（尤其是顽固污渍）不如科沃斯滚筒方案",
+        "旗舰机型价格偏高，性价比不如追觅",
+        "基站自清洁能力相对一般"
+      ],
+      "recommended_models": [
+        {
+          "model": "石头G30 Space探索版",
+          "tier": "旗舰",
+          "estimated_price": "5999-6999元（国补后约4500-5500元）",
+          "key_features": "5轴折叠机械手（可拾取小物件）、22000Pa吸力、80℃除菌自清洁、零缠绕、AI避障",
+          "best_for": "预算充足、追求黑科技和极致体验的用户"
+        },
+        {
+          "model": "石头G30",
+          "tier": "高端",
+          "estimated_price": "4999-5999元（国补后约3800-4800元）",
+          "key_features": "22000Pa吸力、80℃热水洗拖布、零缠绕、全功能基站、精准避障",
+          "best_for": "大户型、对清洁力要求高的用户"
+        },
+        {
+          "model": "石头P20 Ultra / P20 Pro",
+          "tier": "中高端",
+          "estimated_price": "3499-4299元（国补后约2800-3500元）",
+          "key_features": "79.8mm超薄机身、拖布抬升17mm、AI避障、性价比高",
+          "best_for": "主流家庭、需要兼顾地毯清洁的用户"
+        }
+      ]
+    },
+    {
+      "brand": "科沃斯 (Ecovacs)",
+      "market_position": "国内市场份额第一，双品牌战略（科沃斯+添可）",
+      "strengths": [
+        "全球市占率约13.5%，品牌知名度最高",
+        "滚筒活水洗地技术领先（X8/X9/T80系列），拖地效果行业最强",
+        "产品线最丰富，覆盖1000-8000元全价位段",
+        "基站功能完善（自清洁/热风烘干/自集尘）",
+        "机身薄（T50 Pro为超薄款），低矮家具通过性好",
+        "售后服务网络完善"
+      ],
+      "weaknesses": [
+        "高端旗舰价格较高",
+        "无额外越障能力（门槛较高的场景有局限）",
+        "部分型号避障算法不如石头精准",
+        "APP体验有优化空间"
+      ]
+    },
+    {
+      "brand": "追觅 (Dreame)",
+      "market_position": "增长最快的品牌之一，以高性价比著称",
+      "strengths": [
+        "超高性价比，同价位配置往往最优",
+        "吸力参数高（旗舰款6000-7000Pa以上）",
+        "仿生双机械足越障能力行业领先（可过6cm门槛）",
+        "热风烘干/自动集尘/自动上下水等全能基站",
+        "LDS激光导航+AI避障表现优秀",
+        "双滚防缠绕主刷，毛发处理效果好"
+      ],
+      "weaknesses": [
+        "品牌历史较短，长期耐用性有待验证",
+        "部分入门型号降噪处理不如石头/科沃斯",
+        "软件算法（路径规划/地图管理）略逊于石头",
+        "高端旗舰价格波动大（保值率一般）"
+      ],
+      "recommended_models": [
+        {
+          "model": "追觅X50 Ultra / X50 Pro增强版",
+          "tier": "旗舰",
+          "estimated_price": "6699-6999元（国补+券后约4400-5000元）",
+          "key_features": "仿生双机械足（6cm越障）、双滚防缠绕、增压仓地毯清洁、边角外扩清洁",
+          "best_for": "家庭门槛多、需要强越障能力的用户"
+        },
+        {
+          "model": "追觅S50 Pro / S50增强版",
+          "tier": "中高端",
+          "estimated_price": "3999-4599元（国补后约3000-3600元）",
+          "key_features": "60℃热水洗拖布、AI避障、自清洁基站、性价比极高",
+          "best_for": "预算3000-4000元追求性价比的用户"
+        },
+        {
+          "model": "追觅S60 Pro",
+          "tier": "新中端",
+          "estimated_price": "3599-4299元（国补后约2800-3500元）",
+          "key_features": "滚筒式拖地、新品、清洁力强、性价比好",
+          "best_for": "想体验滚筒洗地但预算有限的用户"
+        }
+      ]
+    },
+    {
+      "brand": "云鲸 (Narwal)",
+      "market_position": "市场份额第四，以自清洁基站闻名",
+      "strengths": [
+        "最早推出自清洁拖布功能，基站自清洁能力强",
+        "100℃高温煮洗拖布，杀菌率99.99%",
+        "全链路烘干技术（拖布+底盘都干净）",
+        "产品设计精致，用户体验好"
+      ],
+      "weaknesses": [
+        "扫地除尘能力相对弱（实测粉尘收集量垫底）",
+        "产品迭代节奏慢于其他三家",
+        "高端型号价格偏高"
+      ],
+      "recommended_models": [
+        {
+          "model": "云鲸J5",
+          "tier": "中高端",
+          "estimated_price": "3299-3999元（国补后约2600-3200元）",
+          "key_features": "100℃高温煮洗、全链路烘干、基站自清洁、静音",
+          "best_for": "注重基站自清洁和杀菌效果的用户"
+        }
+      ]
+    },
+    {
+      "brand": "小米 (Xiaomi)",
+      "market_position": "市场份额第五，主打性价比",
+      "strengths": [
+        "价格最低，入门门槛低",
+        "米家生态链集成好，智能联动方便",
+        "部分型号由石头/追觅代工，基础品质有保障"
+      ],
+      "weaknesses": [
+        "高端功能缺失（如热水洗拖布、AI避障等）",
+        "导航算法一般",
+        "售后不如专业品牌"
+      ]
+    }
+  ],
+  "key_model_comparison": [
+    {
+      "price_range": "高端旗舰 (4500元以上)",
+      "models": [
+        {"brand": "石头", "model": "G30 Space探索版", "price_after_subsidy": "~4500-5500元", "highlight": "5轴机械手（独有），22000Pa"},
+        {"brand": "科沃斯", "model": "X11 PRO / X12 Pro", "price_after_subsidy": "~4500-6000元", "highlight": "滚筒活水洗地，智能控水"},
+        {"brand": "追觅", "model": "X50 Pro增强版", "price_after_subsidy": "~4400-5000元", "highlight": "6cm越障（独有），双机械足"},
+        {"brand": "云鲸", "model": "J5", "price_after_subsidy": "~2600-3200元", "highlight": "100℃高温煮洗"}
+      ],
+      "verdict": "追觅X50 Pro越障最强；石头G30算法和导航最佳；科沃斯X11拖地最干净"
+    },
+    {
+      "price_range": "中端主力 (3000-4500元)",
+      "models": [
+        {"brand": "石头", "model": "P20 Ultra", "price_after_subsidy": "~2800-3500元", "highlight": "超薄机身，性价比高"},
+        {"brand": "科沃斯", "model": "T80 / T50 PRO", "price_after_subsidy": "~2800-3800元", "highlight": "滚筒活水入门，清洁力强"},
+        {"brand": "追觅", "model": "S50 Pro增强版", "price_after_subsidy": "~3000-3600元", "highlight": "全能基站，综合性价比最高"},
+        {"brand": "云鲸", "model": "J5", "price_after_subsidy": "~2600-3200元", "highlight": "高温煮洗+全链路烘干"}
+      ],
+      "verdict": "追觅S50 Pro性价比突出；科沃斯T80滚筒清洁力强；石头P20算法优秀"
+    }
+  ],
+  "purchase_guide": {
+    "jd_618_deals": {
+      "timing": "6月10日-6月15日为下单最佳窗口，叠加国补+百亿补贴+品牌优惠",
+      "price_examples": [
+        "追觅S50 Pro：原价3999+，国补+券后约3000-3300元",
+        "追觅X50 Pro：原价6699，国补+券后约4419元起",
+        "石头G30：国补+优惠后约3800-4500元",
+        "科沃斯T80：国补后约3000-3500元"
+      ],
+      "tips": "建议提前加购物车，关注6月10日开门红和6月15日冲刺期价格"
+    },
+    "selection_guide": [
+      {
+        "scenario": "大户型（150㎡+），追求全能体验",
+        "recommendation": "石头G30 或 追觅X50 Pro 增强版",
+        "reason": "大吸力+精准导航+全能基站，续航和覆盖能力优秀"
+      },
+      {
+        "scenario": "有门槛/高低不平区域",
+        "recommendation": "追觅X50 Pro 增强版（仿生机械足6cm越障）",
+        "reason": "唯一能轻松过6cm门槛的旗舰机"
+      },
+      {
+        "scenario": "深度拖地需求/顽固污渍",
+        "recommendation": "科沃斯T80 / X9 Pro（滚筒活水方案）",
+        "reason": "滚筒活水洗地拖地效果远优于圆盘拖布"
+      },
+      {
+        "scenario": "养宠家庭/毛发多",
+        "recommendation": "石头G30 或 追觅S50 Pro（零缠绕技术）",
+        "reason": "防毛发缠绕技术最成熟的两家"
+      },
+      {
+        "scenario": "预算3000-4000元，追求性价比",
+        "recommendation": "追觅S50 Pro 或 石头P20 Ultra",
+        "reason": "该价位配置最全面，功能接近旗舰"
+      },
+      {
+        "scenario": "家里家具矮/需要超薄机身",
+        "recommendation": "石头P20 Pro（79.8mm）或 科沃斯T50 PRO",
+        "reason": "超薄机身可进入更多低矮空间"
+      }
+    ]
+  },
+  "reference_links": [
+    "https://zhuanlan.zhihu.com/p/1907443851930629246 (2025年618扫地机器人终极榜单)",
+    "https://post.smzdm.com/p/a945g0vp (2025年618扫地机器人完整版选购指南)",
+    "https://zhuanlan.zhihu.com/p/1907903399745269893 (618哪台扫地机器人最值得买)",
+    "https://www.tmtpost.com/7592896.html (智能清洁品牌混战618)",
+    "https://post.smzdm.com/p/a03rnk5r (2026年4月家用扫地机器人产品推荐)",
+    "https://zhuanlan.zhihu.com/p/274542770 (科沃斯、石头、追觅、云鲸哪个牌子好)",
+    "https://cj.sina.cn/articles/view/7857141524/1d452771401901w7kk (2025年扫地机器人推荐:实测对比)",
+    "https://zhuanlan.zhihu.com/p/371428551 (2026年扫地机器人推荐攻略)",
+    "https://www.jvniubi.com/digital/7958.html (五款旗舰机型深度对比)",
+    "https://zhuanlan.zhihu.com/p/139666607 (2026年扫地机器人推荐618必看)"
+  ],
+  "created_at": "2025-05-20",
+  "source": "Firecrawl web search + multi-source synthesis"
+}

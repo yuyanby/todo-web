@@ -1,0 +1,924 @@
+{
+  "task_id": 20,
+  "title": "新房物品补充清单（全屋入住指南）",
+  "summary": "一份全面的新房入住物品补充清单，基于Firecrawl全网搜索整理的必备家居用品。按玄关、客厅、餐厅、厨房、卧室、卫生间、阳台、清洁、工具五金、安全急救、收纳等区域分类，涵盖家具、家电、日用消耗品、装饰软装等，帮助新房入住者一次性买齐所需物品，避免遗漏。",
+  "search_keywords": [
+    "新房入住 必备清单 家居",
+    "新家 需要买什么 清单",
+    "厨房用品 新房必备 清单",
+    "卫生间用品 新房 必备",
+    "卧室用品 新房 必备 清单",
+    "收纳用品 新房 必备 推荐",
+    "清洁用品 新房 入住 必备清单",
+    "家居小工具 五金 新房 必备",
+    "客厅 餐厅 家居用品 新房 清单",
+    "阳台 玄关 家居用品 新房 必备清单"
+  ],
+  "categories": [
+    {
+      "name": "玄关区",
+      "description": "入门第一印象区域，主要功能是收纳和进出便利",
+      "items": [
+        {
+          "item": "入户地垫",
+          "purpose": "防尘防滑，区分室内外区域，建议选易清洁材质",
+          "tips": "选深色耐脏款，尺寸根据门洞宽度留2-3cm余量"
+        },
+        {
+          "item": "换鞋凳",
+          "purpose": "方便坐着换鞋，尤其有老人小孩的家庭",
+          "tips": "可选带储物功能的款式，一物多用"
+        },
+        {
+          "item": "鞋柜/鞋架",
+          "purpose": "收纳全家鞋子，保持玄关整洁",
+          "tips": "优先选百叶门透气款式，层板可调节更灵活"
+        },
+        {
+          "item": "衣帽挂钩/挂衣架",
+          "purpose": "挂放外套、包包、帽子等随身物品",
+          "tips": "高度1.2-1.5m为佳，儿童家庭可加设低位挂钩"
+        },
+        {
+          "item": "全身镜",
+          "purpose": "出门前整理仪容",
+          "tips": "可贴墙安装或选落地镜，镜面高度建议1.5m以上"
+        },
+        {
+          "item": "钥匙收纳盒/托盘",
+          "purpose": "固定放置钥匙、门卡等小物，避免出门找不到",
+          "tips": "选磁吸式或带小抽屉的款式"
+        },
+        {
+          "item": "雨伞架/伞桶",
+          "purpose": "收纳雨伞，避免滴水弄湿地板",
+          "tips": "选带接水盘的款式"
+        },
+        {
+          "item": "玄关感应灯",
+          "purpose": "入门自动亮灯，方便夜间回家",
+          "tips": "选人体感应+光控的LED款，无需布线"
+        },
+        {
+          "item": "拖鞋（客人用/自用）",
+          "purpose": "家居必备，建议分日常拖鞋和客用拖鞋",
+          "tips": "棉拖鞋和凉拖鞋各备几双，按季节轮换"
+        }
+      ],
+      "sources": [
+        "https://zhuanlan.zhihu.com/p/443563633",
+        "https://zhuanlan.zhihu.com/p/38353877",
+        "https://m.quanbaoyuan.cn/zxxy/jzgl/10396.html"
+      ]
+    },
+    {
+      "name": "客厅区",
+      "description": "家庭核心活动区域，需兼顾舒适性、功能性和装饰性",
+      "items": [
+        {
+          "item": "沙发",
+          "purpose": "客厅核心家具，日常休息、会客使用",
+          "tips": "根据客厅面积选三人位/L型/单人位，布艺更温馨，皮质易打理"
+        },
+        {
+          "item": "茶几",
+          "purpose": "摆放茶具、遥控器、零食等日常用品",
+          "tips": "选带抽屉或储物格的款式，高度略低于沙发座面"
+        },
+        {
+          "item": "电视柜",
+          "purpose": "放置电视及影音设备，兼顾收纳",
+          "tips": "长度建议比电视宽30-40cm，留散热空间"
+        },
+        {
+          "item": "地毯",
+          "purpose": "提升空间氛围感，分隔功能区",
+          "tips": "选短毛或可机洗款，浅色系显空间大，深色耐脏"
+        },
+        {
+          "item": "窗帘",
+          "purpose": "遮光、保护隐私、装饰",
+          "tips": "建议双层（纱帘+遮光帘），客厅选透光率30-50%的窗帘"
+        },
+        {
+          "item": "装饰画/挂画",
+          "purpose": "墙面装饰，提升家居品味",
+          "tips": "画框中心距地面1.5-1.6m，组合画间距5-8cm"
+        },
+        {
+          "item": "绿植/盆栽",
+          "purpose": "净化空气、增添生机",
+          "tips": "推荐龟背竹、虎皮兰、绿萝等好养护的品种"
+        },
+        {
+          "item": "落地灯/台灯",
+          "purpose": "辅助照明，营造氛围",
+          "tips": "色温3000K-4000K暖光为宜，灯泡选LED节能款"
+        },
+        {
+          "item": "抱枕/靠垫",
+          "purpose": "增加沙发舒适度和装饰性",
+          "tips": "建议选不同大小和颜色混搭，数量3-5个为宜"
+        },
+        {
+          "item": "垃圾桶",
+          "purpose": "客厅日常垃圾收纳",
+          "tips": "选带盖款式更美观，容量8-12L为佳"
+        },
+        {
+          "item": "遥控器收纳盒",
+          "purpose": "整理电视、空调等遥控器",
+          "tips": "选分格设计，放在茶几上随手可取"
+        },
+        {
+          "item": "零食篮/零食盒",
+          "purpose": "收纳零食、干果等",
+          "tips": "选带盖密封款式，防潮防虫"
+        }
+      ],
+      "sources": [
+        "https://zhuanlan.zhihu.com/p/677106382",
+        "https://m.zhuxiaobang.com/weitoutiao/1788487134439435",
+        "https://www.facebook.com/spacelivingconcept/posts/812071577600228"
+      ]
+    },
+    {
+      "name": "餐厅区",
+      "description": "用餐区域，需要兼顾实用性和仪式感",
+      "items": [
+        {
+          "item": "餐桌",
+          "purpose": "用餐核心家具",
+          "tips": "1.2-1.4m适合4人，1.6m适合6人，圆桌比长桌更省空间"
+        },
+        {
+          "item": "餐椅",
+          "purpose": "配合餐桌使用",
+          "tips": "椅面高度45-50cm，坐垫选舒适透气的面料"
+        },
+        {
+          "item": "桌布/餐垫",
+          "purpose": "保护桌面，方便清洁",
+          "tips": "选防水防油材质，PVC软玻璃桌垫实用"
+        },
+        {
+          "item": "餐具套装（碗碟盘）",
+          "purpose": "日常用餐必备",
+          "tips": "中式餐具建议8-10件套起步，选骨瓷或强化瓷"
+        },
+        {
+          "item": "筷子/勺子/叉子",
+          "purpose": "基本餐具",
+          "tips": "每人一套，额外备2-3套客用。木质筷子需定期更换"
+        },
+        {
+          "item": "杯子（水杯/酒杯/茶杯）",
+          "purpose": "日常饮水、招待客人",
+          "tips": "玻璃杯、陶瓷杯各备4-6个，酒杯按需配置"
+        },
+        {
+          "item": "餐巾纸/抽纸盒",
+          "purpose": "用餐清洁",
+          "tips": "桌面放纸巾盒或纸巾架，选稳重不易倒的款式"
+        },
+        {
+          "item": "牙签筒/牙线",
+          "purpose": "餐后清洁",
+          "tips": "放在餐桌随手可及处"
+        }
+      ],
+      "sources": [
+        "https://www.facebook.com/spacelivingconcept/posts/812071577600228",
+        "https://www.horia.com.tw/knowledge-detail/newfurniture/",
+        "https://m.zhuxiaobang.com/weitoutiao/1788487134439435"
+      ]
+    },
+    {
+      "name": "厨房区",
+      "description": "家中功能最密集的区域，炊具、餐具、小家电和清洁用品缺一不可",
+      "items": [
+        {
+          "item": "炒锅/煎锅",
+          "purpose": "中式烹饪核心炊具",
+          "tips": "建议买不粘锅（易清洁）配铁锅（镬气足），口径30-34cm"
+        },
+        {
+          "item": "汤锅/炖锅",
+          "purpose": "煮汤、炖菜、煮面",
+          "tips": "不锈钢或珐琅锅，容量3-5L通用"
+        },
+        {
+          "item": "电饭煲",
+          "purpose": "煮米饭必备",
+          "tips": "2-4人家庭选3-4L容量，IH加热比底盘加热口感更好"
+        },
+        {
+          "item": "刀具套装（切片刀/砍骨刀/水果刀）",
+          "purpose": "食材切割处理",
+          "tips": "至少配切片刀和砍骨刀，选高碳不锈钢材质"
+        },
+        {
+          "item": "砧板（生熟分开）",
+          "purpose": "食材切割垫板",
+          "tips": "建议至少两块：生食和熟食分开，推荐抗菌PP或木质"
+        },
+        {
+          "item": "碗盘沥水架",
+          "purpose": "洗净后餐具沥干收纳",
+          "tips": "选不锈钢或ABS材质，尺寸根据水槽大小选择"
+        },
+        {
+          "item": "调味料瓶罐收纳架",
+          "purpose": "整理油盐酱醋等调料",
+          "tips": "选旋转式或分层收纳架，靠近灶台摆放"
+        },
+        {
+          "item": "保鲜盒/密封罐",
+          "purpose": "食材储存保鲜",
+          "tips": "选玻璃材质（易清洁无残留），各种尺寸各备2-3个"
+        },
+        {
+          "item": "厨房剪刀",
+          "purpose": "剪食材、开包装",
+          "tips": "选可拆卸清洗的款式"
+        },
+        {
+          "item": "刨皮器/削皮刀",
+          "purpose": "果蔬去皮",
+          "tips": "选不锈钢刀片，手柄防滑设计"
+        },
+        {
+          "item": "锅铲/汤勺/漏勺",
+          "purpose": "烹饪翻炒、盛汤、捞面",
+          "tips": "不粘锅需配硅胶铲，不锈钢锅配不锈钢铲"
+        },
+        {
+          "item": "洗菜篮/沥水篮",
+          "purpose": "清洗蔬菜水果",
+          "tips": "选双槽设计（洗+沥），PP材质轻便耐用"
+        },
+        {
+          "item": "厨房纸巾/抹布",
+          "purpose": "厨房日常清洁",
+          "tips": "厨房纸巾吸油性好，抹布建议分色分区使用"
+        },
+        {
+          "item": "洗洁精/洗碗布/锅刷",
+          "purpose": "餐具和厨具清洗",
+          "tips": "选温和不伤手配方，锅刷选椰棕或硅胶材质"
+        },
+        {
+          "item": "微波炉/烤箱/空气炸锅",
+          "purpose": "加热和烹饪辅助（按需配置）",
+          "tips": "空气炸锅近年热度高，可替代烤箱功能，利用率更高"
+        },
+        {
+          "item": "冰箱除味剂/保鲜膜/锡纸",
+          "purpose": "食材保鲜辅助",
+          "tips": "保鲜膜选PE材质，锡纸用于烘焙和烧烤"
+        },
+        {
+          "item": "厨房防油贴纸",
+          "purpose": "保护灶台墙面，方便清洁",
+          "tips": "选耐高温、易撕换的款式"
+        }
+      ],
+      "sources": [
+        "https://www.vevor.com/zh-CN/diy-ideas/ultimate-kitchen-essentials-list/",
+        "https://zhuanlan.zhihu.com/p/157880917",
+        "https://www.searchome.net/article.aspx?id=76566",
+        "https://jia.jiwu.com/baike/22444.html"
+      ]
+    },
+    {
+      "name": "卧室区",
+      "description": "休息睡眠核心区域，舒适度和私密性优先",
+      "items": [
+        {
+          "item": "床架/床垫",
+          "purpose": "睡眠核心家具",
+          "tips": "床垫比床架更重要，建议线下试躺后购买，软硬度因人而异"
+        },
+        {
+          "item": "枕头/枕芯",
+          "purpose": "支撑颈部和头部",
+          "tips": "乳胶枕/记忆棉/羽绒枕按睡姿选，侧睡选高枕，仰睡选中枕"
+        },
+        {
+          "item": "被子/被芯",
+          "purpose": "保暖睡眠",
+          "tips": "春秋被+夏凉被+冬被三件套，材质选羽绒/蚕丝/大豆纤维"
+        },
+        {
+          "item": "床上四件套（床单/被套/枕套）",
+          "purpose": "与皮肤直接接触的床品",
+          "tips": "纯棉60支以上长绒棉舒适度高，备2-3套轮换"
+        },
+        {
+          "item": "床头柜",
+          "purpose": "放置手机、台灯、水杯等",
+          "tips": "高度略高于床垫，带抽屉的款式更实用"
+        },
+        {
+          "item": "床头灯/阅读灯",
+          "purpose": "睡前阅读和起夜照明",
+          "tips": "色温2700-3000K暖光，不刺眼，可调节亮度"
+        },
+        {
+          "item": "衣柜/挂衣架",
+          "purpose": "衣物收纳",
+          "tips": "衣架建议统一款式和颜色，衣柜内用分类收纳盒"
+        },
+        {
+          "item": "梳妆台/书桌",
+          "purpose": "化妆、办公（按需配置）",
+          "tips": "如果卧室兼书房功能，选多功能桌"
+        },
+        {
+          "item": "全身镜",
+          "purpose": "日常穿搭整理",
+          "tips": "尺寸至少40×120cm，可选挂墙式或落地式"
+        },
+        {
+          "item": "衣架/裤架/挂衣钩",
+          "purpose": "挂放日常穿着的衣物",
+          "tips": "植绒衣架防滑且省空间，每人备15-20个"
+        },
+        {
+          "item": "收纳盒/收纳箱",
+          "purpose": "小物件和换季衣物收纳",
+          "tips": "选透明款方便查找，统一色系保持视觉整洁"
+        },
+        {
+          "item": "垃圾桶",
+          "purpose": "日常小垃圾",
+          "tips": "选带盖迷你款，容量3-5L"
+        },
+        {
+          "item": "空气净化器",
+          "purpose": "新房甲醛净化，提升睡眠空气质量",
+          "tips": "新房入住建议24小时开启，CADR值按卧室面积选"
+        }
+      ],
+      "sources": [
+        "https://zhuanlan.zhihu.com/p/594478159",
+        "https://zhuanlan.zhihu.com/p/443563633",
+        "https://www.dealmoon.com/guide/988351",
+        "https://m.zhuxiaobang.com/weitoutiao/1788487134439435"
+      ]
+    },
+    {
+      "name": "卫生间区",
+      "description": "高频使用区域，需配备洗浴、洗漱、如厕、清洁四类用品",
+      "items": [
+        {
+          "item": "马桶刷/马桶清洁剂",
+          "purpose": "马桶日常清洁",
+          "tips": "选带底座收纳的马桶刷，清洁剂用凝胶挂壁型效果持久"
+        },
+        {
+          "item": "垃圾桶（带盖）",
+          "purpose": "卫生间垃圾收纳",
+          "tips": "必须带盖，选脚踏式开盖更卫生"
+        },
+        {
+          "item": "毛巾/浴巾",
+          "purpose": "洗脸洗澡擦干",
+          "tips": "每人2-3条毛巾+1条浴巾轮换，纯棉纱布或长绒棉"
+        },
+        {
+          "item": "牙刷/牙膏/漱口杯",
+          "purpose": "日常口腔清洁",
+          "tips": "每人一套，电动牙刷效率更高"
+        },
+        {
+          "item": "洗发水/护发素/沐浴露",
+          "purpose": "洗浴必备",
+          "tips": "按全家发质需求选购，建议配按压瓶分装"
+        },
+        {
+          "item": "洗手液/皂盒",
+          "purpose": "手部清洁",
+          "tips": "自动感应洗手液机更卫生方便"
+        },
+        {
+          "item": "吹风机",
+          "purpose": "吹干头发",
+          "tips": "选负离子护发功能，功率1800W以上吹干快"
+        },
+        {
+          "item": "卫生纸/卷纸架",
+          "purpose": "如厕必备",
+          "tips": "选原生木浆卷纸，厕纸架装在马桶侧前方30cm处"
+        },
+        {
+          "item": "浴帘/淋浴房防滑垫",
+          "purpose": "干湿分离、防滑安全",
+          "tips": "防滑垫选PVC吸盘款，浴帘长度要低于淋浴区地面5cm"
+        },
+        {
+          "item": "地垫（吸水防滑）",
+          "purpose": "淋浴后垫脚吸水",
+          "tips": "选超细纤维材质，速干防霉"
+        },
+        {
+          "item": "洗漱用品收纳架",
+          "purpose": "收纳牙刷杯、洗面奶等",
+          "tips": "壁挂式省台面空间，选免打孔安装款"
+        },
+        {
+          "item": "脸盆",
+          "purpose": "手洗衣物、泡脚等",
+          "tips": "大小各一个，叠放收纳不占空间"
+        },
+        {
+          "item": "洁厕灵/除霉剂/管道疏通剂",
+          "purpose": "卫生间深度清洁",
+          "tips": "入住后头一个月勤用除霉剂处理瓷砖缝隙"
+        }
+      ],
+      "sources": [
+        "https://zhuanlan.zhihu.com/p/163064774",
+        "https://www.snimay.com/article/20374.shtml",
+        "https://www.searchome.net/article.aspx?id=76566"
+      ]
+    },
+    {
+      "name": "阳台/晾晒区",
+      "description": "洗衣晾晒和室外活动区域",
+      "items": [
+        {
+          "item": "洗衣机/烘干机",
+          "purpose": "洗衣核心家电",
+          "tips": "洗烘一体机省空间，独立烘干机烘干效果好。容量8-10kg"
+        },
+        {
+          "item": "晾衣架/升降晾衣架",
+          "purpose": "晾晒衣物",
+          "tips": "手摇升降或电动升降款，带横杆和挂孔设计更实用"
+        },
+        {
+          "item": "衣架/裤架/衣夹",
+          "purpose": "挂晾衣物",
+          "tips": "备30-50个，选防滑材质"
+        },
+        {
+          "item": "洗衣篮/脏衣篓",
+          "purpose": "分类收纳待洗衣物",
+          "tips": "建议干湿分离，2-3个分色使用"
+        },
+        {
+          "item": "洗衣液/洗衣凝珠/柔顺剂",
+          "purpose": "洗涤用品",
+          "tips": "首次入住备大瓶装，洗衣凝珠方便定量"
+        },
+        {
+          "item": "拖把/平板拖把/拖地机器人",
+          "purpose": "地面清洁",
+          "tips": "旋转拖把或平板拖把实用，扫拖机器人解放双手"
+        },
+        {
+          "item": "扫帚/簸箕",
+          "purpose": "日常清扫",
+          "tips": "选软毛扫帚不伤地板，簸箕带齿梳方便清理毛发"
+        },
+        {
+          "item": "阳台桌椅（可选）",
+          "purpose": "休闲喝茶阅读",
+          "tips": "选户外专用材质（藤编/铝合金），防晒防水"
+        }
+      ],
+      "sources": [
+        "https://m.zhuxiaobang.com/article/7067836792262951431",
+        "https://www.searchome.net/article.aspx?id=76566",
+        "https://www.sohu.com/a/624761732_120922677"
+      ]
+    },
+    {
+      "name": "清洁用品区",
+      "description": "全屋清洁维护所需工具和耗材",
+      "items": [
+        {
+          "item": "吸尘器/洗地机",
+          "purpose": "高效地面清洁",
+          "tips": "无线手持吸尘器方便全屋使用，洗地机适合瓷砖/木地板"
+        },
+        {
+          "item": "玻璃刮/窗刮",
+          "purpose": "清洁窗户和镜面",
+          "tips": "双面磁吸玻璃擦适合高层外窗清洁"
+        },
+        {
+          "item": "除螨仪",
+          "purpose": "床品沙发除螨除尘",
+          "tips": "新房入住后建议每周使用一次，尤其有过敏体质成员"
+        },
+        {
+          "item": "垃圾袋（多种尺寸）",
+          "purpose": "各区域垃圾收纳耗材",
+          "tips": "建议区分厨房（大号厚实）、卫生间（中号）、卧室（小号）"
+        },
+        {
+          "item": "抹布/百洁布/纳米海绵",
+          "purpose": "表面擦拭清洁",
+          "tips": "颜色分区：厨房（蓝）、卫生间（绿）、客厅（黄），避免交叉"
+        },
+        {
+          "item": "手套（橡胶/一次性）",
+          "purpose": "保护双手，清洁卫生",
+          "tips": "橡胶手套用于洗碗和深度清洁，一次性手套用于处理食材"
+        },
+        {
+          "item": "消毒液/84消毒液",
+          "purpose": "卫生间和厨房消毒",
+          "tips": "入住初期用稀释消毒液擦拭橱柜、台面等"
+        },
+        {
+          "item": "多用途清洁剂",
+          "purpose": "台面、墙面、家具表面清洁",
+          "tips": "中性配方不伤表面，一瓶通用省心"
+        },
+        {
+          "item": "除油剂",
+          "purpose": "厨房油烟机、灶台重油污清洁",
+          "tips": "强力去油配方，配合喷壶使用"
+        }
+      ],
+      "sources": [
+        "https://www.searchome.net/article.aspx?id=76566",
+        "https://www.snimay.com/article/20374.shtml",
+        "https://blog.owlsquarecoliving.com/%E6%96%B0%E5%B1%8B-%E6%96%B0%E5%B1%85-%E5%85%A5%E4%BC%99-%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AE-%E6%B8%85%E6%BD%94%E6%AD%A5%E9%A9%9F/"
+      ]
+    },
+    {
+      "name": "工具五金区",
+      "description": "家庭日常维修、安装和小改造必备工具",
+      "items": [
+        {
+          "item": "家用工具箱（套装）",
+          "purpose": "基础维修工具集合",
+          "tips": "至少含锤子、螺丝刀（十字/一字）、活动扳手、钳子、卷尺"
+        },
+        {
+          "item": "电钻/电动螺丝刀",
+          "purpose": "打孔安装、拆装家具",
+          "tips": "无线充电款方便使用，配常用钻头套装"
+        },
+        {
+          "item": "水平仪/水平尺",
+          "purpose": "安装挂画、家具时校准水平",
+          "tips": "磁吸式可吸附在金属表面"
+        },
+        {
+          "item": "下水道疏通器",
+          "purpose": "疏通厨房、卫生间下水道堵塞",
+          "tips": "建议弹簧式，价格便宜且实用"
+        },
+        {
+          "item": "美工刀/剪刀",
+          "purpose": "拆快递、切割材料",
+          "tips": "美工刀选带锁定功能，备替换刀片"
+        },
+        {
+          "item": "螺丝/膨胀管/挂钩套装",
+          "purpose": "墙面挂物安装耗材",
+          "tips": "买混合尺寸套装，涵盖M4-M8不同规格"
+        },
+        {
+          "item": "绝缘胶带/电工胶布",
+          "purpose": "电线接头绝缘保护",
+          "tips": "备一卷黑色和一卷彩色（标记用途）"
+        },
+        {
+          "item": "伸缩梯",
+          "purpose": "高处取物、换灯泡、清洁高处",
+          "tips": "家用选人字梯或伸缩梯，承重150kg以上"
+        },
+        {
+          "item": "插座/插线板/转换器",
+          "purpose": "电源扩展",
+          "tips": "选新国标带安全门款，USB充电口实用，2-3个不同长度"
+        },
+        {
+          "item": "钟表/挂钟",
+          "purpose": "查看时间",
+          "tips": "静音机芯款，客厅挂钟直径30-40cm"
+        }
+      ],
+      "sources": [
+        "https://zhongce.sina.cn/article/view/104201/",
+        "https://www.zhihu.com/question/314654715",
+        "https://www.reddit.com/r/DIY/comments/1ay2a99/help_first_time_home_buyer_what_tools/"
+      ]
+    },
+    {
+      "name": "安全与急救区",
+      "description": "家居安全和应急处理必备物品",
+      "items": [
+        {
+          "item": "灭火器（家用型）",
+          "purpose": "初期火灾扑救",
+          "tips": "选干粉灭火器（ABC型），2kg装放厨房，注意保质期"
+        },
+        {
+          "item": "灭火毯",
+          "purpose": "油锅起火覆盖灭火，也可披覆逃生",
+          "tips": "1m×1m规格，挂在厨房显眼位置"
+        },
+        {
+          "item": "烟雾报警器",
+          "purpose": "火灾预警",
+          "tips": "每层楼至少一个，安装在走廊或卧室外天花板"
+        },
+        {
+          "item": "一氧化碳报警器",
+          "purpose": "燃气安全预警",
+          "tips": "安装在卧室附近或燃气热水器旁"
+        },
+        {
+          "item": "急救箱/家庭医药箱",
+          "purpose": "日常小伤口的应急处理",
+          "tips": "含创可贴、消毒酒精、碘伏棉签、纱布、绷带、医用胶带、剪刀、一次性手套"
+        },
+        {
+          "item": "常用药品",
+          "purpose": "感冒发烧、肠胃不适等常见病症",
+          "tips": "备感冒药、退烧药、止痛药、肠胃药、抗过敏药、创可贴"
+        },
+        {
+          "item": "手电筒/应急灯",
+          "purpose": "停电时照明",
+          "tips": "备1-2个手电筒，定期检查电池"
+        },
+        {
+          "item": "门挡/门吸/防盗链",
+          "purpose": "增强入户安全",
+          "tips": "入住后第一时间检查门锁，建议换C级锁芯"
+        },
+        {
+          "item": "口罩/防护手套",
+          "purpose": "搬家清洁和装修后打扫防护",
+          "tips": "N95口罩+橡胶手套，打扫时使用"
+        }
+      ],
+      "sources": [
+        "https://www.reddit.com/r/homeowners/comments/1lm1oo6/building_a_safety_kit_for_my_brothers_new_home/",
+        "https://www.gdwc.gov.cn/downpc/bmdh/jd/bp/dt/content/post_2127591.html",
+        "https://www.119.gov.cn/kp/hzyf/jt/2022/1296.shtml",
+        "https://blog.owlsquarecoliving.com/%E6%96%B0%E5%B1%8B-%E6%96%B0%E5%B1%85-%E5%85%A5%E4%BC%99-%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AE-%E6%B8%85%E6%BD%94%E6%AD%A5%E9%A9%9F/"
+      ]
+    },
+    {
+      "name": "收纳用品区",
+      "description": "全屋收纳整理解决方案，合理规划让空间更整洁",
+      "items": [
+        {
+          "item": "收纳箱/收纳盒（各种尺寸）",
+          "purpose": "换季衣物、杂物分类收纳",
+          "tips": "透明款一目了然，统一尺寸可堆叠更省空间"
+        },
+        {
+          "item": "真空压缩袋",
+          "purpose": "棉被、厚衣物压缩收纳",
+          "tips": "手卷式或电动抽气式，节省70%空间"
+        },
+        {
+          "item": "抽屉分隔板/收纳格",
+          "purpose": "抽屉内小物件分类",
+          "tips": "可伸缩式分隔板适用不同宽度抽屉"
+        },
+        {
+          "item": "衣柜分层架/伸缩隔板",
+          "purpose": "充分利用衣柜垂直空间",
+          "tips": "免打孔安装，适合衣柜内层高较高的区域"
+        },
+        {
+          "item": "冰箱收纳盒",
+          "purpose": "冰箱内食材分类冷藏",
+          "tips": "选透明PP材质，带把手方便取出"
+        },
+        {
+          "item": "墙面置物架/洞洞板",
+          "purpose": "厨房、书房墙面收纳",
+          "tips": "免打孔背胶款适用于瓷砖墙面，承重有限"
+        },
+        {
+          "item": "化妆品收纳盒",
+          "purpose": "梳妆台护肤品、彩妆收纳",
+          "tips": "选旋转式或分层式，亚克力材质一目了然"
+        },
+        {
+          "item": "电线收纳盒/理线器",
+          "purpose": "整理桌面、电视柜下方的杂乱电线",
+          "tips": "集线盒遮盖插线板，理线带固定走线"
+        },
+        {
+          "item": "S型挂钩/门背挂钩",
+          "purpose": "利用门后和柜门空间悬挂小物",
+          "tips": "免打孔，适合挂包包、毛巾、围巾等"
+        }
+      ],
+      "sources": [
+        "https://zhuanlan.zhihu.com/p/594478159",
+        "https://www.facebook.com/spacelivingconcept/posts/812071577600228",
+        "https://www.youtube.com/watch?v=cuGqA6eBtag"
+      ]
+    },
+    {
+      "name": "装饰软装与氛围区",
+      "description": "提升家居美感和个人风格的补充物品",
+      "items": [
+        {
+          "item": "香薰/无火香薰/香薰蜡烛",
+          "purpose": "改善室内气味，营造氛围",
+          "tips": "入住初期推荐清新柑橘或白茶味，有除甲醛功效的香薰更佳"
+        },
+        {
+          "item": "花瓶/仿真花/干花",
+          "purpose": "桌面色块点缀",
+          "tips": "选1-2个花瓶搭配仿真花或干花，省心又美观"
+        },
+        {
+          "item": "相框/照片墙",
+          "purpose": "记录家庭美好瞬间",
+          "tips": "统一色系和风格更协调"
+        },
+        {
+          "item": "台历/日历",
+          "purpose": "查看日期和安排",
+          "tips": "可选桌面日历或挂历"
+        },
+        {
+          "item": "脚踏垫/入户垫（多块）",
+          "purpose": "玄关、厨房、卫生间等多个入口",
+          "tips": "按区域选不同材质和功能的地垫"
+        },
+        {
+          "item": "懒人沙发/豆袋",
+          "purpose": "休闲阅读、看电影时使用",
+          "tips": "适合客厅或书房，选可拆洗面料"
+        },
+        {
+          "item": "阅读灯/氛围灯带",
+          "purpose": "辅助照明和氛围营造",
+          "tips": "LED灯带可贴在电视背面、书桌下方或床沿"
+        }
+      ],
+      "sources": [
+        "https://zhuanlan.zhihu.com/p/677106382",
+        "https://m.zhuxiaobang.com/weitoutiao/1788487134439435",
+        "https://www.facebook.com/spacelivingconcept/posts/812071577600228"
+      ]
+    }
+  ],
+  "shopping_guide": {
+    "购买策略": [
+      "1. 分批次购买：第一批买必用物品（床品、厨具、清洁工具），第二批买改善型物品（装饰、收纳），第三批买个性化物品",
+      "2. 入住前优先买：床架床垫、窗帘、马桶刷、卫生纸、毛巾、基本厨具餐具、清洁工具、垃圾桶垃圾袋",
+      "3. 入住后一周补买：收纳用品、装饰画、地毯、绿植、香薰等软装",
+      "4. 大件家电趁促销：冰箱、洗衣机、电视等建议在618/双11等大促时购买",
+      "5. 五金工具提前备：入住第一天就可能需要组装家具、挂窗帘、装挂钩"
+    ],
+    "注意事项": [
+      "1. 装修后建议通风1-3个月再入住，入住后仍要保持通风",
+      "2. 购买前先丈量空间尺寸，避免家具尺寸不合适",
+      "3. 厨房和卫生间用品建议买品质好的，高频使用品质差异明显",
+      "4. 首次入住建议买适量日用品，不要囤货，先住一个月再补买缺项",
+      "5. 注意环保等级：板材家具选E0/E1级，涂料选水性漆",
+      "6. 家电注意能效等级，一级能效更省电",
+      "7. 窗帘、地毯等纺织品入住前先清洗再使用"
+    ],
+    "sources": [
+      "https://zhuanlan.zhihu.com/p/443563633",
+      "https://zhuanlan.zhihu.com/p/586567487",
+      "https://www.searchome.net/article.aspx?id=76566",
+      "https://blog.owlsquarecoliving.com/%E6%96%B0%E5%B1%8B-%E6%96%B0%E5%B1%85-%E5%85%A5%E4%BC%99-%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AE-%E6%B8%85%E6%BD%94%E6%AD%A5%E9%A9%9F/",
+      "https://www.sohu.com/a/624761732_120922677",
+      "https://m.zhuxiaobang.com/weitoutiao/1788487134439435",
+      "https://flyhomes.com/blog/mandarin/new-home-checklist-what-you-need-before-moving-in/",
+      "https://zhuanlan.zhihu.com/p/677106382"
+    ]
+  },
+  "search_sources": [
+    {
+      "keyword": "新房入住 必备清单 家居",
+      "url": "https://zhuanlan.zhihu.com/p/443563633",
+      "title": "新房搬家入住必买清单，超详细！"
+    },
+    {
+      "keyword": "新房入住 必备清单 家居",
+      "url": "https://www.searchome.net/article.aspx?id=76566",
+      "title": "新居入厝購物清單懶人包"
+    },
+    {
+      "keyword": "新房入住 必备清单 家居",
+      "url": "https://m.zhuxiaobang.com/weitoutiao/1788487134439435",
+      "title": "新房入住必备清单 别再迷茫了"
+    },
+    {
+      "keyword": "新家 需要买什么 清单",
+      "url": "https://zhuanlan.zhihu.com/p/586567487",
+      "title": "搬新家需要买什么？超全购物清单"
+    },
+    {
+      "keyword": "新家 需要买什么 清单",
+      "url": "https://www.dealmoon.com/guide/988351",
+      "title": "搬进新家第一晚的必备用品清单"
+    },
+    {
+      "keyword": "新家 需要买什么 清单",
+      "url": "https://www.sohu.com/a/624761732_120922677",
+      "title": "搬新家需要准备哪些物品？新房搬家须知"
+    },
+    {
+      "keyword": "厨房用品 新房必备 清单",
+      "url": "https://www.vevor.com/zh-CN/diy-ideas/ultimate-kitchen-essentials-list/",
+      "title": "2025年厨房必需品清单终极指南"
+    },
+    {
+      "keyword": "厨房用品 新房必备 清单",
+      "url": "https://zhuanlan.zhihu.com/p/157880917",
+      "title": "厨房必备用品清单，家用厨房用具大盘点"
+    },
+    {
+      "keyword": "厨房用品 新房必备 清单",
+      "url": "https://jia.jiwu.com/baike/22444.html",
+      "title": "厨房电器必买清单"
+    },
+    {
+      "keyword": "卫生间用品 新房 必备",
+      "url": "https://zhuanlan.zhihu.com/p/163064774",
+      "title": "新房搬家要准备哪些必备物品？"
+    },
+    {
+      "keyword": "卫生间用品 新房 必备",
+      "url": "https://www.snimay.com/article/20374.shtml",
+      "title": "搬家需要准备哪些实用物品？"
+    },
+    {
+      "keyword": "卧室用品 新房 必备 清单",
+      "url": "https://zhuanlan.zhihu.com/p/594478159",
+      "title": "搬新家必买物品清单，纯干货！"
+    },
+    {
+      "keyword": "卧室用品 新房 必备 清单",
+      "url": "https://www.facebook.com/spacelivingconcept/posts/812071577600228",
+      "title": "超详细新房必买清单"
+    },
+    {
+      "keyword": "收纳用品 新房 必备 推荐",
+      "url": "https://www.youtube.com/watch?v=cuGqA6eBtag",
+      "title": "新家收纳购物开箱"
+    },
+    {
+      "keyword": "清洁用品 新房 入住 必备清单",
+      "url": "https://blog.owlsquarecoliving.com/%E6%96%B0%E5%B1%8B-%E6%96%B0%E5%B1%85-%E5%85%A5%E4%BC%99-%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AE-%E6%B8%85%E6%BD%94%E6%AD%A5%E9%A9%9F/",
+      "title": "2026 新屋入伙购物清单"
+    },
+    {
+      "keyword": "清洁用品 新房 入住 必备清单",
+      "url": "https://www.spacious.hk/zh-tw/blog/%E6%96%B0%E5%B1%85%E5%85%A5%E4%BC%99%E6%B8%85%E5%96%AE-%E5%85%A5%E4%BC%99%E5%89%8D%E6%B8%85%E6%BD%94%E9%A0%86%E5%BA%8F/",
+      "title": "新居入伙必备清单"
+    },
+    {
+      "keyword": "家居小工具 五金 新房 必备",
+      "url": "https://zhongce.sina.cn/article/view/104201/",
+      "title": "新家入住必备，16件五金工具帮你解决生活难题"
+    },
+    {
+      "keyword": "家居小工具 五金 新房 必备",
+      "url": "https://www.zhihu.com/question/314654715",
+      "title": "家庭常备的五金工具有哪些？"
+    },
+    {
+      "keyword": "客厅 餐厅 家居用品 新房 清单",
+      "url": "https://zhuanlan.zhihu.com/p/677106382",
+      "title": "良心整理|新房入住购买清单"
+    },
+    {
+      "keyword": "客厅 餐厅 家居用品 新房 清单",
+      "url": "https://www.horia.com.tw/knowledge-detail/newfurniture/",
+      "title": "新家家具清单分享"
+    },
+    {
+      "keyword": "阳台 玄关 家居用品 新房 必备清单",
+      "url": "https://zhuanlan.zhihu.com/p/38353877",
+      "title": "新房入住必买清单，良心整理！"
+    },
+    {
+      "keyword": "阳台 玄关 家居用品 新房 必备清单",
+      "url": "https://m.quanbaoyuan.cn/zxxy/jzgl/10396.html",
+      "title": "新房入住家居必买清单"
+    },
+    {
+      "keyword": "安全用品 急救箱 消防 新房 必备",
+      "url": "https://www.reddit.com/r/homeowners/comments/1lm1oo6/building_a_safety_kit_for_my_brothers_new_home/",
+      "title": "为新家准备安全工具包"
+    },
+    {
+      "keyword": "安全用品 急救箱 消防 新房 必备",
+      "url": "https://www.gdwc.gov.cn/downpc/bmdh/jd/bp/dt/content/post_2127591.html",
+      "title": "家庭防火必备消防器材自查"
+    }
+  ]
+}

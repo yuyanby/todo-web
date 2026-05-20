@@ -1,0 +1,284 @@
+{
+  "id": "task_8",
+  "title": "瑞金洲际酒店·馨源楼草坪婚礼流程方案攻略",
+  "venue": {
+    "name": "上海瑞金洲际酒店 (InterContinental Shanghai Ruijin)",
+    "address": "上海市黄浦区瑞金二路118号",
+    "building": "馨源楼 (Xinyuan Building) — 始建于1924年，三层建筑，为酒店中餐厅，提供粤式及本帮菜",
+    "lawn_area": "酒店占地约55,000平方米英式草坪花园",
+    "historical_background": "1927年蒋介石与宋美龄在此订婚，大中华区首家洲际品牌历史经典酒店",
+    "contact": "+86-21-64725222 转 7665 (婚宴专线)",
+    "wedding_package_price": "2025年婚宴套餐 人民币9,666元/桌起（每席10位）+16.6%服务费",
+    "indoor_alternative": "百合苑（水晶宫殿风格，最大容纳350人）、锦怡轩（最大容纳200人）、大宴会厅（最大容纳260人）"
+  },
+  "best_season": {
+    "primary": ["5月-6月（晚春，天气温暖，草木茂盛）", "9月-10月（初秋，天高气爽，温度适宜）"],
+    "secondary": ["4月", "11月上旬"],
+    "avoid": ["7月-8月（酷暑多雨）", "12月-2月（寒冷，草坪枯黄）"],
+    "weather_notes": "上海春季多雨，建议备选室内方案（百合苑/锦怡轩）作为雨天备案"
+  },
+  "wedding_planning_timeline": {
+    "婚前12-8个月": [
+      "确定婚礼日期和形式（纯西式草坪仪式 vs 草坪仪式+室内宴席）",
+      "预约瑞金洲际酒店场地考察，确认馨源楼草坪档期",
+      "签订婚宴合同，缴纳定金",
+      "确定婚礼预算总盘",
+      "草拟宾客名单（馨源楼草坪建议50-120人，最佳体验60-80人）"
+    ],
+    "婚前8-6个月": [
+      "选择婚庆策划公司（一站式 vs 单项委托）",
+      "确定婚礼主题风格和色系",
+      "预定四大金刚：摄影、摄像、司仪、化妆师",
+      "选购或租赁婚纱礼服（建议主纱用齐地/小拖尾，不适合大拖尾）",
+      "新郎定制西装"
+    ],
+    "婚前3个月": [
+      "确定婚礼现场布置方案（草坪仪式区+宴会区）",
+      "试妆确定新娘三套造型",
+      "拍摄婚纱照",
+      "制作电子请柬",
+      "与酒店确认菜单，安排试菜",
+      "确定婚礼整体流程时间表"
+    ],
+    "婚前1个月": [
+      "发出电子请柬/纸质请柬",
+      "确认最终宾客人数",
+      "采购婚礼物品（互动道具、装饰品、喜糖伴手礼等）",
+      "确定婚礼歌单",
+      "新人准备誓言词、感谢信",
+      "安排双方父母发言准备"
+    ],
+    "婚前1-2周": [
+      "与策划师、摄影摄像师召开线上沟通会",
+      "与司仪沟通流程细节",
+      "最终确认宾客席位安排",
+      "天气关注，确认备选方案",
+      "彩排（策划师+新人+双方父母+司仪参与）",
+      "整理婚礼当天物品清单并打包"
+    ]
+  },
+  "wedding_day_timeline": {
+    "title": "草坪婚礼当日流程时间表（无接亲环节·推荐方案）",
+    "morning_preparation": [
+      {"time": "07:00-08:00", "duration": "60min", "activity": "新娘起床、洗漱、早餐、敷面膜"},
+      {"time": "08:00-10:00", "duration": "120min", "activity": "新娘化妆+晨袍拍摄（第一组造型）"},
+      {"time": "08:00-09:00", "duration": "60min", "activity": "新郎化妆准备、西装着装"},
+      {"time": "09:00-10:00", "duration": "60min", "activity": "新郎场地检查、物品交接"},
+      {"time": "10:00-10:30", "duration": "30min", "activity": "新娘换装出门纱/鱼尾纱（第二组造型）"},
+      {"time": "10:30-11:00", "duration": "30min", "activity": "First Look环节（新娘与父母→新娘与新郎）交换信件"},
+      {"time": "11:00-11:30", "duration": "30min", "activity": "户外拍摄（新人+伴郎伴娘+花童）"}
+    ],
+    "ceremony_program": [
+      {"time": "14:00-14:30", "duration": "30min", "activity": "宾客签到入场（手写贺卡投入抽奖箱）、参观照片墙、自由社交"},
+      {"time": "14:30-14:35", "duration": "5min", "activity": "暖场音乐，司仪开场白"},
+      {"time": "14:35-14:40", "duration": "5min", "activity": "花童入场（一男一女，手持小捧花和戒枕）"},
+      {"time": "14:40-14:45", "duration": "5min", "activity": "伴郎伴娘入场"},
+      {"time": "14:45-14:48", "duration": "3min", "activity": "新郎入场（从舞台侧方或花门处）"},
+      {"time": "14:48-14:55", "duration": "7min", "activity": "新娘与父亲一同入场，父亲将新娘交给新郎（加冕礼/嘱托交接）"},
+      {"time": "14:55-15:05", "duration": "10min", "activity": "新人互相宣读婚礼誓言（First Letter环节）"},
+      {"time": "15:05-15:08", "duration": "3min", "activity": "交换戒指+掀头纱+拥吻"},
+      {"time": "15:08-15:15", "duration": "7min", "activity": "证婚人致辞/家长代表致辞（双方父亲代表）"},
+      {"time": "15:15-15:20", "duration": "5min", "activity": "新人答谢父母+向父母敬茶改口环节"},
+      {"time": "15:20-15:25", "duration": "5min", "activity": "朋友代表致辞（新郎新娘方各一位）"},
+      {"time": "15:25-15:30", "duration": "5min", "activity": "切蛋糕仪式+倒香槟塔"},
+      {"time": "15:30-15:35", "duration": "5min", "activity": "新娘抛手捧花+全场合影"},
+      {"time": "15:35-15:40", "duration": "5min", "activity": "退场（退场音乐，宾客撒花瓣/泡泡）"}
+    ],
+    "reception_dinner": [
+      {"time": "16:00-16:30", "duration": "30min", "activity": "草坪自由社交、甜品及饮品、游戏互动（套圈等）"},
+      {"time": "16:30-16:45", "duration": "15min", "activity": "新娘换装主纱/敬酒服（第三组造型）"},
+      {"time": "16:45-17:00", "duration": "15min", "activity": "新人入场+开席"},
+      {"time": "17:00-18:30", "duration": "90min", "activity": "正式婚宴（西式自助餐/中式圆桌）"},
+      {"time": "18:30-18:45", "duration": "15min", "activity": "抽奖环节（从签到贺卡中抽取幸运宾客）+ 互动小游戏"},
+      {"time": "18:45-19:00", "duration": "15min", "activity": "新人敬酒答谢"},
+      {"time": "19:00-19:15", "duration": "15min", "activity": "送客+鲜花赠予宾客带走"},
+      {"time": "19:15-19:30", "duration": "15min", "activity": "整理物品，婚礼结束"}
+    ],
+    "total_ceremony_duration": "约30-40分钟（草坪仪式核心部分）",
+    "total_event_duration": "约5-6小时（含准备、仪式、宴席）"
+  },
+  "alternative_timeline_with_pickup": {
+    "title": "含接亲环节的备选方案（适合传统习俗需求）",
+    "notes": "如果保留接亲环节，仪式时间需推后或提前化妆时间",
+    "morning": [
+      {"time": "06:00-07:00", "activity": "新娘化妆（第一组晨袍造型）"},
+      {"time": "08:00-09:00", "activity": "新郎接亲+堵门游戏"},
+      {"time": "09:00-09:30", "activity": "新娘出门，到男方家/酒店"},
+      {"time": "09:30-10:30", "activity": "敬茶改口环节（室内）"},
+      {"time": "10:30-11:30", "activity": "外景拍摄"}
+    ],
+    "ceremony": [
+      {"time": "15:00-15:40", "activity": "草坪证婚仪式（同上流程简化版）"}
+    ],
+    "reception": [
+      {"time": "17:00-19:00", "activity": "婚宴"}
+    ]
+  },
+  "venue_space_layout": {
+    "outdoor_areas": [
+      {"name": "草坪主仪式区", "description": "英式草坪中央设置仪式舞台/花亭，观礼区摆放白色座椅，走道铺花瓣路引"},
+      {"name": "签到区", "description": "草坪入口处设置签到台、宾客贺卡+抽奖箱、照片墙"},
+      {"name": "游戏互动区", "description": "草坪一侧设置套圈、泡泡机等互动游戏"},
+      {"name": "饮品甜品区", "description": "草坪边缘布置饮品站、甜品台/零食铺"}
+    ],
+    "indoor_areas_xinyuan_building": [
+      {"name": "宴会厅", "description": "馨源楼宴会区域，用于正式用餐（中式围桌/西式自助）"},
+      {"name": "敬茶区", "description": "馨源楼包厢，中式风格布置，用于敬茶改口环节"},
+      {"name": "新娘化妆间/休息室", "description": "酒店提供独立房间供新娘换装补妆"}
+    ]
+  },
+  "ceremony_music_playlist": {
+    "welcome_ambient": ["Sunny Day", "Can't Take My Eyes Off You", "I Do - 911", "How Long Will I Love You", "找到你是我最伟大的成功"],
+    "mc_opening": "舒米 - 草坪婚礼背景音乐",
+    "groom_entrance": "冰淇淋爱情",
+    "bride_with_father": "涵昱 - 草坪婚礼",
+    "couple_joint_entry": "Jay & Quinlivan's wedding",
+    "vows_groom": "陪你走过最美的风景 (钢琴曲)",
+    "vows_bride": "With Your Summer",
+    "ring_exchange": "猫的舞步",
+    "first_kiss": "王若琳 - I Love You",
+    "parent_speech": "惠化洞 (口琴版)",
+    "thanks_parents": "瞬间的永恒",
+    "friend_speech": "Beautiful in White",
+    "exit_recessional": ["Perfect - Ed Sheeran", "Love Story meets Viva La Vida", "Marry Me", "Stand By Me"]
+  },
+  "decoration_theme_options": {
+    "recommended_color_palette": ["奶油黄", "梦幻浅粉", "西芹绿", "白色", "淡紫"],
+    "style": "清新自然森系风格 + 英式花园风",
+    "key_decorations": [
+      "入口鲜花拱门或字母造型（新人姓名首字母）",
+      "主仪式区：粉色+白色花艺背景，木艺+森系摆件",
+      "宾客座椅：白色椅背装饰小花+绸带",
+      "路引：花瓣铺路或小型花柱",
+      "签到区：照片墙展示恋爱故事（约50张照片+时间事件标注）",
+      "休闲区：零食铺/甜品台、饮品站"
+    ],
+    "flower_types": ["玫瑰", "马蹄莲", "百合", "绣球", "洋桔梗"],
+    "note": "建议主仪式区花艺用真花+假花结合控制预算，宴会厅桌花可只保留主桌用于区分"
+  },
+  "attire_suggestions": {
+    "bride": [
+      {"outfit": "出门纱/鱼尾纱", "style": "裹胸式小裙摆或前短后长小拖尾，适合户外行走"},
+      {"outfit": "主纱", "style": "齐地一字肩婚纱，优雅气质，不建议大拖尾"},
+      {"outfit": "敬酒服/晚宴服", "style": "中式礼服或简约晚装"},
+      {"shoes": "中跟婚鞋2双（浅粉渐变+红色），草坪走路舒适方便"}
+    ],
+    "groom": [
+      {"outfit": "仪式服装", "style": "正式西装+领带（不穿马甲，草坪户外较热）"},
+      {"outfit": "宴会服装", "style": "西装马甲+领结，活泼风格"},
+      {"note": "建议准备替换衬衫2套以上，男士户外容易出汗"}
+    ],
+    "parents": {"mother": "旗袍或套装", "father": "西装或中山装"},
+    "flower_girl_boy": "小礼服/小西装"
+  },
+  "interactive_elements": [
+    {"activity": "签到贺卡抽奖", "description": "宾客手写祝福贺卡投入抽奖箱，宴会时抽奖赠送与新人恋爱相关的小礼物"},
+    {"activity": "照片墙", "description": "展示新人恋爱历程照片50张，标注时间和事件"},
+    {"activity": "套圈游戏区", "description": "经典套圈游戏，小朋友和年轻人喜爱"},
+    {"activity": "随机采访", "description": "仪式开始前摄像团队随机采访宾客，增加趣味性"},
+    {"activity": "抛手捧花", "description": "经典环节，传递幸福"},
+    {"activity": "鲜花赠送", "description": "宴会结束后让宾客带走仪式上的鲜花"},
+    {"activity": "泡泡机", "description": "退场或仪式中泡泡机制造浪漫氛围"}
+  ],
+  "vendor_team_suggestions": {
+    "photography": {
+      "style": "明亮欢快纪实风格，注重抓拍真情实感",
+      "count": "建议双机位（1主拍+1抓拍）",
+      "meeting": "婚礼前1周线上沟通会，明确重点拍摄需求和风格"
+    },
+    "videography": {
+      "style": "纪实+采访风格",
+      "feature": "建议加入宾客随机采访环节",
+      "trailer": "当天可出预告视频"
+    },
+    "makeup_artist": {
+      "trial": "提供一次试妆",
+      "scope": "新娘3个造型全程跟妆+两位妈妈及新郎妆发",
+      "style_note": "简约大气自然风，户外妆容注意防脱妆和防晒"
+    },
+    "mc_officiant": {
+      "choice_1": "专业司仪（策划公司合作团队）",
+      "choice_2": "朋友担任（基于对新人了解，主持词更个性化）",
+      "meeting": "婚礼前2周线上沟通流程，便于写稿"
+    },
+    "wedding_planner": {
+      "type_1": "一站式服务（场地+策划+四大+布置+餐饮打包，省时省力）",
+      "type_2": "单项委托（各环节可自由选择，总价控制需自行把控）"
+    }
+  },
+  "weather_contingency_plan": {
+    "plan_a": "晴天方案 — 全程户外草坪仪式+户外自助餐或移步馨源楼室内用餐",
+    "plan_b": "小雨方案 — 草坪仪式备透明雨伞（提供宾客使用），仪式正常进行",
+    "plan_c": "大雨/台风方案 — 转移至酒店室内场地（首选百合苑水晶宫殿），流程不变",
+    "preparation_tips": [
+      "提前3天关注天气预报",
+      "准备简易防雨棚/透明帐篷",
+      "准备防蚊贴和杀虫剂（草坪蚊虫较多）",
+      "准备防晒霜（新娘裸露肌肤涂抹）",
+      "准备高跟鞋套（防止陷入草坪泥土）"
+    ]
+  },
+  "budget_allocation_reference": {
+    "venue_and_catering": "40-45%",
+    "wedding_planning_and_decoration": "20-25%",
+    "photo_video_team": "10-15%",
+    "attire_and_beauty": "8-10%",
+    "music_and_mc": "5-8%",
+    "miscellaneous_invitation_gifts": "5-8%",
+    "note": "瑞金洲际2025年婚宴套餐9,666元/桌起+16.6%服务费，建议总预算根据宾客人数和布置档次合理规划"
+  },
+  "day_of_essentials_checklist": {
+    "bridal_emergency_kit": [
+      "防晒霜（大面积涂抹）",
+      "防蚊贴/驱蚊水",
+      "创可贴",
+      "针线包",
+      "小镜子+梳子",
+      "备用丝袜/打底裤",
+      "胸贴",
+      "美瞳+眼药水",
+      "口气清新喷雾",
+      "小风扇（户外降温）"
+    ],
+    "important_items": [
+      "结婚戒指（真假各一对）",
+      "誓言卡+信件",
+      "敬茶茶碗4个+托盘2个",
+      "改口红包2个",
+      "签到贺卡+笔",
+      "抽奖箱+抽奖礼物",
+      "泡泡机",
+      "照片墙照片",
+      "喜糖+伴手礼",
+      "白酒/葡萄汁（代替红酒）"
+    ],
+    "documents": [
+      "婚礼流程时间表（打印多份）",
+      "物品交接清单",
+      "宾客座位安排表",
+      "紧急联系人名单"
+    ]
+  },
+  "common_mistakes_to_avoid": [
+    "草坪新娘穿大拖尾婚纱（不方便行走，容易绊倒沾泥）",
+    "忽略蚊虫防护（草坪婚礼蚊虫较多，婚宴前提前喷洒杀虫剂）",
+    "仪式时间过长（建议20-30分钟核心仪式，避免宾客饥饿）",
+    "话筒未提前测试（室外音响环境与室内不同，务必彩排时测试）",
+    "头纱固定不牢（阳光暴晒可能使胶融化，需加卡子固定）",
+    "未准备雨天备案方案（上海天气多变，务必签合同时确认室内备选场地）",
+    "红酒代替品未提前打包（放在冰箱的葡萄汁/饮料容易遗忘）",
+    "宴会桌花过度（宾客入席时桌花已撤，建议只保留主桌）"
+  ],
+  "source_references": [
+    "https://zhuanlan.zhihu.com/p/648939173 - 草坪婚礼攻略（知乎）",
+    "https://www.ihg.com/intercontinental/hotels/cn/zh/shanghai/shgsr/hoteldetail/meetings-events - 瑞金洲际酒店会议活动页",
+    "https://zhuanlan.zhihu.com/p/411733931 - 黄浦区草坪婚礼酒店——瑞金洲际（知乎）",
+    "https://www.sohu.com/a/206938361_438273 - 魔都婚礼场地·瑞金洲际酒店（搜狐）",
+    "https://www.marry0573.com/ketang/guide/2025/03062222.html - 清新浪漫的草坪婚礼策划方案流程",
+    "https://www.yanhui360.com/gonglue/v8_5929.html - 草坪婚礼流程策划",
+    "https://www.hunbohui.cn/post/2029.html - 户外草坪婚礼流程注意事项",
+    "https://blog.ihg.com/intercontinental-shanghai-ruijin-wedding-package - 瑞金洲际婚宴套餐PDF"
+  ],
+  "created_at": "2026-05-20",
+  "note": "本攻略综合多个来源，针对瑞金洲际酒店馨源楼草坪婚礼量身定制，涵盖筹备时间表、当日流程、布置建议、注意事项等完整攻略信息"
+}
