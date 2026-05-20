@@ -24,14 +24,46 @@
   },
   "recommendation": "<h3>最终推荐 — 618床上用品四件套攻略</h3><p>根据Firecrawl全网搜索真实测评数据，针对新房6月底入住需求，综合推荐如下：</p><ul><li><b>🏆 综合首选：京东京造60支全棉贡缎四件套（¥259-399）</b>——新疆长绒棉60支300根密度，高支高密贡缎工艺，柔软丝滑媲美五星酒店。四季通用，新房入住首选。京东自营售后无忧</li><li><b>🥇 最佳性价比：网易严选 A类新疆棉四件套（¥189-249）</b>——A类母婴安全等级，针织棉工艺柔软亲肤如睡衣，适合裸睡。100%棉含量，活性印染，性价比极高</li><li><b>🥈 轻奢享受：罗莱/富安娜 60支长绒棉四件套（¥399-899）</b>——一线大牌品质，贡缎工艺光泽感极佳，适合新房追求品质的装修风格。罗莱偏现代，富安娜偏艺术</li><li><b>🥉 夏季清爽：天丝四件套（¥500-700）</b>——奥地利兰精天丝面料，丝滑凉爽吸湿排汗，比纯棉更凉快，非常适合6-8月夏季新房入住使用</li><li><b>冬季备选：纯棉磨毛四件套（¥229-399）</b>——网易严选/水星家纺磨毛款，表面短绒毛增加保暖性，适合秋冬过渡使用</li></ul><p>⚠️ <b>618攻略：</b>攻略截止5月28日，下单时间5月28日-6月5日。建议提前加购物车，关注跨店满减（满299减50）。</p><p><b>💡 选购要点总结：</b></p><ul><li>面料材质：四季通用选纯棉/长绒棉，夏季选天丝，冬季选磨毛，潮湿地区选亚麻</li><li>支数推荐：日常用60支+300根密度足够，追求极致选80支+400根</li><li>编织工艺：优选缎纹（贡缎）>斜纹>平纹</li><li>印染工艺：优选活性印染，环保不掉色</li><li>安全等级：B类基础够用，母婴/敏感肌选A类</li><li>尺寸注意：1.8米床选被套200×230cm/床单250×270cm；1.5米床选被套200×230cm/床单245×250cm</li></ul>",
   "buyLinks": [
-    {"url": "https://www.taobao.com/list/product/%E4%BA%AC%E4%B8%9C%E4%BA%AC%E9%80%A0%E5%9B%9B%E4%BB%B6%E5%A5%97.htm", "text": "京东京造四件套 - 旗舰店", "platform": "taobao"},
-    {"url": "https://www.taobao.com/list/product/%E7%BD%91%E6%98%93%E4%B8%A5%E9%80%89%E5%9B%9B%E4%BB%B6%E5%A5%97.htm", "text": "网易严选四件套 - 旗舰店", "platform": "taobao"},
-    {"url": "https://www.taobao.com/list/product/%E7%BD%97%E8%8E%B1%E5%9B%9B%E4%BB%B6%E5%A5%97.htm", "text": "罗莱家纺 - 天猫旗舰店", "platform": "taobao"},
-    {"url": "https://www.taobao.com/list/product/%E5%AF%8C%E5%AE%89%E5%A8%9C%E5%9B%9B%E4%BB%B6%E5%A5%97.htm", "text": "富安娜 - 天猫旗舰店", "platform": "taobao"},
-    {"url": "https://www.taobao.com/list/product/%E6%B0%B4%E6%98%9F%E5%AE%B6%E7%BA%BA%E5%9B%9B%E4%BB%B6%E5%A5%97.htm", "text": "水星家纺 - 天猫旗舰店", "platform": "taobao"},
-    {"url": "https://union-click.jd.com/jdc?e=jdext-bedding01-0-1", "text": "京东京造四件套 - 京东自营", "platform": "jd"},
-    {"url": "https://union-click.jd.com/jdc?e=jdext-bedding03-0-1", "text": "罗莱家纺 - 京东自营", "platform": "jd"},
-    {"url": "https://union-click.jd.com/jdc?e=jdext-bedding04-0-1", "text": "水星家纺 - 京东自营", "platform": "jd"}
+    {
+      "url": "https://pcdetail.taobao.com/p/319b6161cc1a6bc2c21802ef1b5660b8",
+      "text": "高级纯棉四件套 - 淘宝",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://pcdetail.taobao.com/p/999602ad1a9fa6a254613c44e3e75cf5",
+      "text": "绿色纯棉四件套 - 淘宝",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://pcdetail.taobao.com/p/792b6822e5c9c6944f96ba0a74c35aaa",
+      "text": "纯棉四件套床笠款 - 淘宝",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://www.taobao.com/list/product/%E5%AF%8C%E5%AE%89%E5%A8%9C%E5%9B%9B%E4%BB%B6%E5%A5%97.htm",
+      "text": "富安娜 - 天猫旗舰店",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://www.taobao.com/list/product/%E6%B0%B4%E6%98%9F%E5%AE%B6%E7%BA%BA%E5%9B%9B%E4%BB%B6%E5%A5%97.htm",
+      "text": "水星家纺 - 天猫旗舰店",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://union-click.jd.com/jdc?e=jdext-bedding01-0-1",
+      "text": "京东京造四件套 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://union-click.jd.com/jdc?e=jdext-bedding03-0-1",
+      "text": "罗莱家纺 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://union-click.jd.com/jdc?e=jdext-bedding04-0-1",
+      "text": "水星家纺 - 京东自营",
+      "platform": "jd"
+    }
   ],
   "notices": [
     "⚠️ 注意区分支数真假：市面有虚标支数的情况，60支以上多为长绒棉，100元以下标60支/100支的多为虚假宣传，认准大品牌购买",

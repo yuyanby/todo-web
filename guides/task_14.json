@@ -24,15 +24,51 @@
   },
   "recommendation": "<h3>最终推荐 — 85寸电视 6000元以内最优性价比</h3><p>根据Firecrawl全网搜索真实测评数据，结合京东实时价格，推荐如下（按预算档位）：</p><h4>💰 3000-4000元档（入门大屏）</h4><ul><li><b>🥇 雷鸟鹏7 26款85寸（约¥3765-3920）</b> — 性价比之王！原生144Hz高刷，3+64GB大内存，MEMC运动补偿，94% DCI-P3广色域，无开机广告。适合预算有限的大屏刚需用户和游戏玩家。<br>京东：<a href='https://www.jd.com/chanpin/2705736.html'>FFALCON雷鸟京东自营旗舰店</a></li><li><b>🥈 酷开85K3（约¥3110）</b> — 3000元档卷王，120Hz高刷，3+64GB，适合纯入门用户</li></ul><h4>💰 4000-5000元档（Mini LED入门）</h4><ul><li><b>🥇 TCL T6L 85寸（约¥3952-4999）</b> — 5000元内最强画质！QD-Mini LED量子点技术，420分区+1300nit亮度，98% DCI-P3色域，288Hz高刷，6cm超薄机身，无开机广告。强烈推荐！<br>京东：<a href='https://www.jd.com/jiage/737469b29a76c7c0148.html'>TCL京东自营旗舰店</a></li><li><b>🥈 Redmi X 2026款85寸（约¥4061）</b> — 640分区Mini LED，288Hz超高刷，小米澎湃OS生态，适合米粉<br>京东：<a href='https://www.jd.com/hprm/73754b2b1f79e456264.html'>小米京东自营旗舰店</a></li><li><b>🥉 Vidda发现X 2025款85寸（约¥3679-5039）</b> — 1024分区+2000nit超高亮度，150W音响，AI星海大模型<br>京东：<a href='https://www.jd.com/chanpin/3365756.html'>Vidda京东自营旗舰店</a></li></ul><h4>💰 5000-6000元档（高端画质入门）</h4><ul><li><b>🥇 雷鸟鹤6 PRO 25款85寸（约¥4959）</b> — QD-MiniLED+高阶VA屏，画质精细，2.1.2声道70W音响，无广告<br>京东：<a href='https://www.jd.com/brand/7374d35797f49c889bd.html'>FFALCON雷鸟京东自营旗舰店</a></li><li><b>🥈 小米电视S85 Mini LED 2025款（约¥5919）</b> — 900分区+1700nit+低反屏，是6000元以内小米画质天花板<br>京东：<a href='https://www.jd.com/jiage/99871bbe5457e0f300a8.html'>小米京东自营旗舰店</a></li></ul><h4>🏆 综合推荐 Top 3</h4><ol><li><b>🥇 TCL T6L 85英寸</b> — ¥3952-4999，QD-Mini LED量子点技术，画质性价比双冠王，强烈推荐</li><li><b>🥇 雷鸟鹏7 26款 85英寸</b> — ¥3765-3920，144Hz高刷+无广告+大内存，4000元内首选</li><li><b>🥈 Vidda发现X 2025款 85英寸</b> — ¥3679-5039，1024分区+2000nit亮度+150W音响，配置拉满</li></ol>",
   "buyLinks": [
-    {"url": "https://www.jd.com/chanpin/2705736.html", "text": "雷鸟鹏7 26款85寸 - 京东自营", "platform": "jd"},
-    {"url": "https://www.jd.com/jiage/737469b29a76c7c0148.html", "text": "TCL T6L 85寸 - 京东自营", "platform": "jd"},
-    {"url": "https://www.jd.com/chanpin/3365756.html", "text": "Vidda发现X 2025款85寸 - 京东自营", "platform": "jd"},
-    {"url": "https://www.jd.com/hprm/73754b2b1f79e456264.html", "text": "小米Redmi X 2026款85寸 - 京东自营", "platform": "jd"},
-    {"url": "https://www.jd.com/brand/7374d35797f49c889bd.html", "text": "雷鸟鹤6 PRO 25款85寸 - 京东自营", "platform": "jd"},
-    {"url": "https://www.jd.com/jiage/99871bbe5457e0f300a8.html", "text": "小米S85 Mini LED 2025款 - 京东自营", "platform": "jd"},
-    {"url": "https://www.jd.com/hprm/7378ef47b184378cb87.html", "text": "酷开85K3 - 京东自营", "platform": "jd"},
-    {"url": "https://www.mi.com/redmi-tvs/max-85", "text": "小米Redmi MAX85 2025款 - 小米官网", "platform": "mi"},
-    {"url": "https://post.smzdm.com/p/apr9k989", "text": "什么值得买-85寸电视选购指南", "platform": "smzdm"}
+    {
+      "url": "https://item.m.jd.com/product/100208999381.html",
+      "text": "雷鸟鹏7 26款85寸 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://item.m.jd.com/product/100209351400.html",
+      "text": "TCL T6L 85寸 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://item.m.jd.com/product/100154274551.html",
+      "text": "Vidda发现X 2025款85寸 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://www.jd.com/hprm/73754b2b1f79e456264.html",
+      "text": "小米Redmi X 2026款85寸 - 京东",
+      "platform": "jd"
+    },
+    {
+      "url": "https://item.m.jd.com/product/100197460736.html",
+      "text": "雷鸟鹤6 PRO 25款85寸 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://www.jd.com/jiage/99871bbe5457e0f300a8.html",
+      "text": "小米S85 Mini LED - 京东",
+      "platform": "jd"
+    },
+    {
+      "url": "https://www.jd.com/hprm/7378ef47b184378cb87.html",
+      "text": "酷开85K3 - 京东",
+      "platform": "jd"
+    },
+    {
+      "url": "https://www.mi.com/redmi-tvs/max-85",
+      "text": "小米Redmi MAX85 2025款 - 小米官网",
+      "platform": "mi"
+    },
+    {
+      "url": "https://post.smzdm.com/p/apr9k989",
+      "text": "什么值得买-85寸电视选购指南",
+      "platform": "smzdm"
+    }
   ],
   "notices": [
     "⚠️ 以上价格为2025年5月搜索时的国补/活动参考价，618期间可能有更大优惠，建议提前关注并领券",

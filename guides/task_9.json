@@ -24,10 +24,26 @@
   },
   "recommendation": "<h3>最终推荐</h3><p>根据Firecrawl全网搜索真实测评数据，甲醛喷剂综合推荐如下：</p><ul><li><b>🏆 最佳综合性能：迪亚林</b> - 植物提取液，无需光照可直接分解污染源，除醛率99.1%（CMA认证），母婴安全级别，适合新房急入住。天猫/京东旗舰店约¥198-398</li><li><b>🥇 最佳性价比：京东京造光触媒除甲醛喷剂</b> - 500ml×2瓶仅¥99，光触媒分解技术，京东自营品质保障</li><li><b>🥈 大牌可靠：霍尼韦尔（¥199）/ 3M（¥128）</b> - 国际大牌，非光触媒配方，适合长期使用</li><li><b>🥉 专业治理同款：叶多芬</b> - 线下除甲醛公司同款药剂，母婴安全，除醛率99%，适合大面积作业</li><li><b>辅助搭配：叶广泥/巴藻土</b> - 吸附分解型材料，搭配喷剂使用效果更好</li></ul><p>⚠️ <b>618攻略：</b>活动截止5月25日，下单时间5月25日-6月3日。建议提前加购，关注天猫/京东旗舰店优惠券。</p><p><b>使用建议：</b>1)先清理家具表面灰尘；2)均匀喷洒在家具板材、沙发窗帘等污染源；3)喷后保持通风；4)连续使用5-7天效果最佳；5)配合叶广泥等吸附材料使用更全面。</p>",
   "buyLinks": [
-    {"url": "https://www.taobao.com/list/item/TzJ3RjZ5SzdGb1BGTFRMcllLL00vUT09.htm", "text": "迪亚林 - 淘宝旗舰店", "platform": "taobao"},
-    {"url": "https://www.jd.com/chanpin/2625580.html", "text": "京东除甲醛喷雾专区", "platform": "jd"},
-    {"url": "https://union-click.jd.com/jdc?e=jdext-1685738849546944513-0-1", "text": "霍尼韦尔 - 京东自营", "platform": "jd"},
-    {"url": "https://union-click.jd.com/jdc?e=jdext-1685738883743145985-0-1", "text": "3M除甲醛喷雾 - 京东自营", "platform": "jd"}
+    {
+      "url": "https://www.taobao.com/list/item/TzJ3RjZ5SzdGb1BGTFRMcllLL00vUT09.htm",
+      "text": "迪亚林 - 淘宝旗舰店",
+      "platform": "taobao"
+    },
+    {
+      "url": "https://item.m.jd.com/product/10216481172524.html",
+      "text": "迪亚林除甲醛喷雾 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://union-click.jd.com/jdc?e=jdext-1685738849546944513-0-1",
+      "text": "霍尼韦尔 - 京东自营",
+      "platform": "jd"
+    },
+    {
+      "url": "https://union-click.jd.com/jdc?e=jdext-1685738883743145985-0-1",
+      "text": "3M除甲醛喷雾 - 京东自营",
+      "platform": "jd"
+    }
   ],
   "notices": [
     "⚠️ 注意区分正品：迪亚林、叶多芬等热门品牌网上假冒产品多，商品本身带品牌字样，没有的都是假冒，认准天猫/京东旗舰店购买",

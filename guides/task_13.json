@@ -70,8 +70,8 @@
   "recommendation": "<h3>最终推荐 — 次卧飘窗书桌选购方案</h3><ul><li><b>🥇 性价比之选：末雅实木飘窗书桌（京东¥899-1299）</b> — 实木材质+带抽屉收纳+可定制高度，性价比高，京东自营送货上门</li><li><b>🥇 DIY经济方案：淘宝高低脚桌（¥145-500）</b> — 买成品高低脚桌板，飘窗台面延伸25-30cm容腿，价格便宜即买即用</li><li><b>🥈 定制品质之选：实木飘窗书桌定制（淘宝¥1900）</b> — 全实木定制，尺寸完美贴合，带抽屉收纳，散味1-2周即可</li><li><b>🥉 预算充足：飘窗升降桌（淘宝¥1954）</b> — 可调节高度，适合不同使用场景（学习/办公/休闲）</li></ul><p><b>⚠️ 重要：提前购买散味！</b>现在下单实木类散味1-2周，板材类需1-3个月。6月底入住，建议5月底前下单并备注提前发货。</p>",
   "buyLinks": [
     {
-      "url": "https://www.taobao.com/list/product/%E9%A3%98%E7%AA%97%E9%95%BF%E7%9F%AD%E8%85%BF%E6%A1%8C%E5%AD%90.htm",
-      "text": "飘窗高低脚实木桌 - 淘宝¥395起",
+      "url": "https://pcdetail.taobao.com/p/d0d222162fd7ece281a5e828780ea498",
+      "text": "抽拉式飘窗桌 - 淘宝",
       "platform": "taobao"
     },
     {
@@ -83,6 +83,11 @@
       "url": "https://www.jd.com/jiage/9847a1950e63ed8f2a8f.html",
       "text": "末雅实木飘窗书桌 - 京东¥899起",
       "platform": "jd"
+    },
+    {
+      "url": "https://pcdetail.taobao.com/p/354cf886760e24acfa3831b1e444e2f5",
+      "text": "实木飘窗书桌 - 淘宝",
+      "platform": "taobao"
     }
   ],
   "notices": [
