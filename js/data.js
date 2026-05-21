@@ -1,7 +1,7 @@
 // 任务数据
 const tasksData = {
   "version": "2.1.0",
-  "lastUpdated": "2026-05-20",
+  "lastUpdated": "2026-05-22",
   "tasks": [
     {
       "id": 3,
@@ -200,6 +200,18 @@ const tasksData = {
       "due_date": "2026-07-31",
       "output_file": "task.html?id=20",
       "created_at": "2025-05-19T21:54:00"
+    },
+    {
+      "id": 21,
+      "content": "办理退税（个税汇算清缴，6月30日截止）",
+      "status": "pending",
+      "priority": "high",
+      "category": "个人",
+      "owner": "hermes",
+      "output_file": null,
+      "created_at": "2026-05-22T00:31:24.354270",
+      "completed_at": null,
+      "due_date": "2026-06-30"
     }
   ]
 };
