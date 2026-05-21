@@ -203,7 +203,7 @@ const tasksData = {
     },
     {
       "id": 21,
-      "content": "办理退税（个税汇算清缴，6月30日截止）",
+      "content": "办理退税（个税汇算清缴，5月底截止）",
       "status": "pending",
       "priority": "high",
       "category": "个人",
@@ -211,7 +211,7 @@ const tasksData = {
       "output_file": null,
       "created_at": "2026-05-22T00:31:24.354270",
       "completed_at": null,
-      "due_date": "2026-06-30"
+      "due_date": "2026-05-31"
     }
   ]
 };
